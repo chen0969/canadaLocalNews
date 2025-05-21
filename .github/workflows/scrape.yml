@@ -1,4 +1,4 @@
-name: Auto Scrape Taiwan News
+name: Auto Scrape Canada News
 
 on:
   schedule:
