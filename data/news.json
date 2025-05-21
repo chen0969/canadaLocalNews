@@ -1,14 +1,21 @@
 {
   "source": "Google News RSS",
   "query": "Ottawa OR Canada",
-  "updated_at": "2025-05-21T18:37:44.599153Z",
+  "updated_at": "2025-05-21T19:13:56.672471Z",
   "article_count": 100,
   "articles": [
     {
       "source": "Google News (Canada)",
-      "title": "Canada invites Manchester United teenager to take part in camp as training player - TSN",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZS1UWTFzNDhtdkw1WnFSaEpFeDJpSE1TNmNwMVdjcEhqOHFWdjV5cEhDVEdlVUo2Z3ZLY0pjVEY1SHhNXzd4RG5lTVFMbWJZLWc1N3ZhemZocml3emFrblAyOV9jdEVXRmw2S2VZSlRVbC1sa3ZCb09WdHlkNDIybHZpNERobEE4OUdSb1lvLURsZDluc1VrUzBFeUYxSjJDLXkwTmxFY3VVZk1wcURpNFhhQnNFZWQ5?oc=5",
-      "published": "2025-05-21T15:00:53",
+      "title": "Postal worker union floats 2-week pause on potential strike after Canada Post makes offer - CBC",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81enh3c3YwRjR1MlV3S0N4aDJ3NEQtUnRFckRVaEU5NkhiMllsNlRTcGZLUDRrT1FTZlA5LVYyUWl0TnVtTW5DVDNxNS1yLWtOQkZEOGpEaVdvVzBxWk9GbjJULVh1Um5PY3F5enRkUjl5Wms?oc=5",
+      "published": "2025-05-21T17:53:48",
+      "date": "2025-05-21"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Canada to face hosts Denmark, USA in tough vs. Finland as quarter-finals loom at Worlds - TSN",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT1VVb1FUd0o5Z1ExMi1UWmVfdDhaNG9DbC1iSGpvYmlRYnYtZy1ndVZhcTVDX1EtMzhldjlrQnFZR2EzX3NKN3o2Z3V5blB1UWVTb3lJNDhHaE9OVXJjLXZxSTBFWkFWWGZzT1RGMHRZWWcyN29GOGNEUWhaeXhXVHJPZWdscFpqMU9oYWgtYjNkVkY1ZDNEeFVVZW5aenpjMlhmSldxcWYyUG4ya3c0aDFBRGZkYnNmQldkVGtYcnhkN0Vybm1Z?oc=5",
+      "published": "2025-05-21T13:50:00",
       "date": "2025-05-21"
     },
     {
@@ -125,6 +132,20 @@
     },
     {
       "source": "Google News (Canada)",
+      "title": "Liberal Party of Canada Announces 2026 Liberal National Convention - Liberal Party of Canada",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVXB0SGpJZmxoWWwtRHZPNjRRYW41YkVGdW5EZzdsejJQZ2loNEpCbnR6WWlBQzRLb1pMQ0Y4TVk5QnBsSW81cFAtTkdta21LMzM3TGhtNTZpNkRqQU9pSnpQRm4xN3EyYzBMcHNJZmpUZk5sV012VVh3czNZeXYxUFJvNkFHT2ptOUxBS3RLOA?oc=5",
+      "published": "2025-05-20T19:42:55",
+      "date": "2025-05-20"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Ottawa Police Service introduces new Mounted Unit - Ottawa Police Service",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR3BCTGp6Y0VLQmZDZHZfZVNaNGFUeFh2aG5TQ0VXRTJNNGtCdzJHYkIxdDJWeFg1aTJ6ZTI1V0FBR3FGRWl5dFY2bFI3SGN4bEtOZXdlTzFBM1BuSFByWUl5U3ZyLWo1SjNPU29uQ29Dcm82ZnM2RFAxWEVEUGhyWTE5Z3lHMFlMelpCM05zRndTU05Y?oc=5",
+      "published": "2025-05-20T19:39:24",
+      "date": "2025-05-20"
+    },
+    {
+      "source": "Google News (Canada)",
       "title": "PWHL Finals preview: Ottawa Charge looking to become 1st Canadian PWHL champions - CBC",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfYnNHTlp4SldmNnhqejhtXzRpbHNkNWlFQTQyemJiLS0tRWY2bHgtM0g5b2JEVGdJWjlqb3EycjZwWnozX2FlbTZwTGI0MWJFYnIzQldmNXpkdjk1SEp5d2pTUWlkbi14eEs2VlNGZEsxVC1wRWtqTEJDcV8?oc=5",
       "published": "2025-05-20T19:22:40",
@@ -156,13 +177,6 @@
       "title": "New immigration minister must address low Atlantic Canada retention rates, expert says - CBC",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWjlzamdvQW9oS0JKMTNFS3BKTTcwQ084S0hEMWVDOGllVk5VYUFuTTBSUlZLTkhYMDlEdmxxQmQxdEtfTDh1MW9MemtFTWE4cVIxMDlFY25zRFR3VVhMdy01NUpRRDRKcFFLeXR3c21QbU9mUUE0TWFzRVp1Z3VGR0ZzYTRVZk1KMGdYc01KWDVyWG80WkhpWlFMUS1tTjhldTRF?oc=5",
       "published": "2025-05-20T18:00:00",
-      "date": "2025-05-20"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "King Charles III and Queen Camilla visit Canada House in London - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM0lpd1hrWFVCdlE5OXBpSzF1S2kwUV90aUxaMGpoWGdBdVpEcVpHS0dFSFAya0N4QjVrUUE4bHpIX1NXYUN2LVZmdWkwUTB5TWNQX3lCOHVvN3RndWNfaWlzRnJza0prcXRFTUpOUlZoWWppbXBxSWlDcWp0Umh5ZmtWVll2dWJlMThMdWZDTkNQOW52NWFOOXJwMXlvTHRiZUFGUA?oc=5",
-      "published": "2025-05-20T17:55:51",
       "date": "2025-05-20"
     },
     {
@@ -230,16 +244,16 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Here’s what you need to know about the Ottawa Charge-Minnesota Frost PWHL final series - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMzVMRDY3X1lZT0dtLVpnbFhOUDMyeEFIcUh3MEkzRGFfMnBDZTNvbzhvZC10R3UtbDIwY2V2QVQxM2tBdkxQZUpBSVlQdDFzblZtMGJoVWw3LXRFY1FhWmlYU0hQVUhGaklSUE1hbFpnd0pEWmg4MERnbFZGbjQyMlhqM3BvS3NhR1lEOTNVZ185NnRaMjBMc3VvWkFNQ2VVOHZtOXk5YlVya1BJVndBZkN5cWpDaFJYRjFXUDNROXlEQQ?oc=5",
-      "published": "2025-05-20T13:30:31",
+      "title": "Canada needs a full federal budget now to show where taxpayers' money is going - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEpaVjB2ampGcUtRcnVvZmJsUkUybmlMb3plUjBMSTRYTWJ0bm9PREZMeGRLOTczbGpWczlJWTg3My02blViWl96amVvVDVnTG95Mzd1QTdidWtIQkZKUEY0cEt3SWpkekZOZEdhbVNuTXBEQmpfVzFEUFdjYkZSeXJfNWJCZw?oc=5",
+      "published": "2025-05-20T13:32:51",
       "date": "2025-05-20"
     },
     {
       "source": "Google News (Canada)",
-      "title": "Canada Child Benefit payments go out today. Here’s how much you can expect - Toronto Star",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdVhaTkliY0ZyZ2gtZG92em8tSjdlRGdFQkdoOHNIYU04YXpsTTJSdEFEME5WakNua0Q4a0NsY0NxWFUxMHduMV9iTmdGWUZtWnVGN2QyenZLYkNMcUJ6dUNhTHBYMkZHbGFKcF9OMHN1V0hHenlCTVFqUXNxejNzZnpXOVNVWFJNX0lCZmgzem1kb1pOVUl1YksxU1FFNm51SUsweEJtbEZqQWRGdkRZQ0wzam1iLXl2SGtpUmR0MGZDdVRsalhuWkg5WXpZenlmb1pfdUc2T1hCVUtHdUQ2a1Y0dUVsTlhmRlNaZnA5VQ?oc=5",
-      "published": "2025-05-20T13:15:00",
+      "title": "Here’s what you need to know about the Ottawa Charge-Minnesota Frost PWHL final series - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMzVMRDY3X1lZT0dtLVpnbFhOUDMyeEFIcUh3MEkzRGFfMnBDZTNvbzhvZC10R3UtbDIwY2V2QVQxM2tBdkxQZUpBSVlQdDFzblZtMGJoVWw3LXRFY1FhWmlYU0hQVUhGaklSUE1hbFpnd0pEWmg4MERnbFZGbjQyMlhqM3BvS3NhR1lEOTNVZ185NnRaMjBMc3VvWkFNQ2VVOHZtOXk5YlVya1BJVndBZkN5cWpDaFJYRjFXUDNROXlEQQ?oc=5",
+      "published": "2025-05-20T13:30:31",
       "date": "2025-05-20"
     },
     {
@@ -293,6 +307,13 @@
     },
     {
       "source": "Google News (Canada)",
+      "title": "As world junior hockey sex assault trial resumes today, here are answers to some legal questions | CBC News - CBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc0ZRc2ozcGJ6dmRtdzY3dXF6ekhfQ3RKeWRSeGhZLWVnU25Qcmk4cE1jN2Rqa2FyT0xjb2hRMXRBZmstbTRSWUhmZU5jRDFZekxneENQSGFqWmRNd1JZOVdwYmZIMlB0MmYzTTdlellNeVRZemZVb25OYTRxblRFaHBTd19RWmc?oc=5",
+      "published": "2025-05-20T08:00:00",
+      "date": "2025-05-20"
+    },
+    {
+      "source": "Google News (Canada)",
       "title": "Ottawa Charge, Minnesota Frost kick off Game 1 of PWHL Finals on TSN - TSN",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdk1TOV9TTmFiVWZDZk52OVlCaVRibGhOZGFCSGx0YVpPOEtoSGdnUTlncUFBNDFsZUU4WDhReWZvTWFZazhyMUZfMDVtWTFfSG9uZ1lWbjNZV2NmTGdrbUMyWGpKOXJkcjExeW1NXy1HSVJWdEJ2c2VGb25FbVZoYk9kcHVHUENwRlA4RVJmX2U1T3d3cEU5Qkkza2ZjTEFXN1N3?oc=5",
       "published": "2025-05-20T02:32:14",
@@ -335,16 +356,9 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Canada, U.K., France warn Israel of ‘concrete action’ over military expansion - Global News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPZ3ZYTWVRdzREcUdDYjd3SGZZT25UWWduWllSXzVWY2VUbDV4LVhNS3JzWXc2OE5MMnRhNHpkOGo0amxYNW9pRmo4Y3lGTmtVMVVvVUk2YmtqeXc5Rmk4VjVUTkxYcXp4amp1SnFiZmZBZG1lVEV3bdIBfkFVX3lxTE9GeGJHcjJRT04xcE9QMUdNLW1UMEplekRQSTkyM2o0Q2N2aXRsZmkwWlIzcUhKQzZmQ1ZVVjFFU3dhNkJkVWRMM09qaWx2cVhVYnlLeXo2UUpqdHJuRnhRZFVxUjNodVplM3FQR3JHb1NPNDNCUmxvRFN6TXBUUQ?oc=5",
-      "published": "2025-05-19T19:34:33",
-      "date": "2025-05-19"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "Men’s Worlds Preview: Canada vs. Finland - Hockey Canada",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBfLTdsc2ZUbzlwX1EzTmhlY2g2NGZSZEdmb0dNdjYxNTZycDgyOGdSZ2pJdnF4NTluTjI0QTJ2aEwwX1VlYXE2aXZXN2RGYU5rMnFVeDdOUmRwSkJyQjdBaHlnbENLcHBOajkzRTlhaDZMQjdwdzdtckRB?oc=5",
-      "published": "2025-05-19T18:20:00",
+      "title": "Canada, U.K., France warn of concrete actions against Israel over military expansion - Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbG5pNkx3MzMwRkIzWkdCSkFPdHNvRnZ3dVl3S1JQbmtZcDJjMHBvN0lFSVQ4VTNLQ2Z5WUFxV2Jod2l6VTJiMWU5X3FfbDdEVFVEaTg4azB6WTE1X0Q5YXJmcGRNZmlfWF9SUWhzeFFYaEpDU1hkeXctQXhqLXd3VG10UU95OGJfaUxvajJMTXBPR2o5OHVacHlFcGFqRERLY0VQOWgweklJbWFkSUpWLXZRSHUwSU1WbGFxYWV6MHQ4OTlKcXV4NEFoSVQ1b3VXam5uZGZHeHQtb1lHaWtVSTRDRkJhUkRYSTR3WjVmMnVrdmtWcGphNkJLWQ?oc=5",
+      "published": "2025-05-19T18:25:00",
       "date": "2025-05-19"
     },
     {
@@ -356,9 +370,9 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Canada Soccer names preliminary 60-man roster for this summer's CONCACAF Gold Cup - TSN",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeEJZVWxhLVNsV2hoaTNaTkZFTm5Bc3Z6VWxVRXFTQ1MwajBJbGF4eDF1WjkwOWNTekxYa2puc1VROTlqeDRrc09DTXRMbkdWVmJJMmFhYk5XSndlX05xb21ybElfNGJyNFkyNG0wLTJMdm9yU3hHbURuWVE1THlod3NrTnFMMDVKR3lpMFZOWWgxa3otRGxGaUlTNGdGcUt1alNTOG1pRFBKUHhvd2UwcjFub3N6NEg3?oc=5",
-      "published": "2025-05-19T17:13:12",
+      "title": "Everything you need to know about Tamarack Ottawa Race Weekend - Ottawa Citizen",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVZvYVdCWFV4SWxpalFmV3A0Y0hwWXY2X3NzSEl4MHl4RGVuci1QX195WVdqSDRwSUJ6WU03RjFUWVBEbVB2dGlCT1pxc1Qya2hyUFNWRl9DM0MwblRUYjZjdUpPS3Uzc2gyelE3X1VoVFBWcjRFemVFUnROS3JiZ0xYa1JEMDM3SDVEVUpxMDhaU3hRRklmYw?oc=5",
+      "published": "2025-05-19T15:39:33",
       "date": "2025-05-19"
     },
     {
@@ -366,6 +380,13 @@
       "title": "Police investigate body found in Ottawa River - CityNews Ottawa",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbTRWU21wc1lhdWZsVFNPZ0xCdmNNNWkzSXowb21JNXBLQXUtcDB2aGF4d21nTC1WbHpSeGVOUFMzUWVWTURwYU1lRWZQRTJBMEFTeE81am5lVklsQnlQeHJ6Z21TQWdadE5RSWw3eU1ZOHFUSVVrLXpRTWJtLWpSMGp6Y0VEZEJCTm5UedIBkgFBVV95cUxPQXY0V05LdVR4Vk1paVMzb3RrSE9wUi1YNXRCOGwzbHNGamdNeWVlRUlvTTg5N3Awd3lhaThnaWJHNlNNb19CNkhoOWdVbjhrb1gzX09lN2NpUGVURUdVX25XTTlFcS14V3VuZ3dNbHQ3MHVscUhuZGJra2NtelFzTGFfaU1wdkxfSVgtRTVrMVl0Zw?oc=5",
       "published": "2025-05-19T13:52:30",
+      "date": "2025-05-19"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Opinion: Canada still faces a massive brain-drain problem - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdXFmZXIybVNzYTJiRnhnTlZpWUJoRHVSV1ZzazBCRUdTUUNDVzZtOXM1Y2N0VUNhaFVkX0xsZG5mT0EtNEw5Y1o3U1p6WWdMVWNRWWFxSG4tRDFpMUo0bkZoLTR6THc1emRKWXozWUJiUWswdUpfeTV0M21RRERZNHlBYUtPN1VKT2duZzFpekRHV05FVUYxZVdvWjd3Zw?oc=5",
+      "published": "2025-05-19T12:00:00",
       "date": "2025-05-19"
     },
     {
@@ -405,6 +426,13 @@
     },
     {
       "source": "Google News (Canada)",
+      "title": "Canada needs more homes. Prefabricated houses could fill the void - CBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qNDlrbHktd04xeThOTlJOOUVBby1rQS0xY1h5dDN3QmVGWEtQNld4X0I5R3BXOElWX0w4Yy1RYzRkU1hCaEZCZXk1ZTBBN3JhdlBCUzN0V3ZVRWY4MUFvZkJmbmphRTFRdHNkMzV5c19raTJ6SDNJZ2FoNA?oc=5",
+      "published": "2025-05-18T08:00:00",
+      "date": "2025-05-18"
+    },
+    {
+      "source": "Google News (Canada)",
       "title": "Traffic stop in Ottawa for stolen plates leads to multiple drug, other charges - Ottawa Citizen",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DTlJmejkydTJjaFRLMzZOS19PZGdJUm9BRDZOMXJFYXFWNnJvdWNSdE9MY3NnYVRzUVlfRnpEUlFTT1NZTmNnWUQwSENwQW45NGk5SGMyb3NlS19pN3RCRkZPSjdnVUM4aDVVRzJNRzR5c0JGb2loSFpEWWE?oc=5",
       "published": "2025-05-18T01:42:43",
@@ -412,16 +440,9 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Crosby, Celebrini lead Canada in dominant 7-0 win over Slovakia at worlds - CBC",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qNWxVLUFqeG52aHJhOFB5Vk9uS0tJUFhscXRKdWJvQVdIcXA5Uy1rM01iMWt2Z2x6RlNQakZhVnpueGJHNVZXSnVLMjFYbGpTZnRFMkpOOEN3azRITDR1UXF0a0c0SkpqVHlJdWdFT19QV2JTbkd3Qg?oc=5",
-      "published": "2025-05-17T23:18:16",
-      "date": "2025-05-17"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "Men’s Worlds Preview: Canada vs. Slovakia - Hockey Canada",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBscVFtbzF5bGV1V241cDhlWHd0U1dsXzNZUU8zMGdCMGFzVkNVcEhaVTJSVzNVbnBUUlZBWWpDNzR3d0Uxdnl1bzVDZ0JoMmpWcWdOZzJhX1hHeFdIV2hLSFZoU3BNLTIwcGpjN0tjQ0Riazl5eWR6eEFB?oc=5",
-      "published": "2025-05-17T18:20:00",
+      "title": "Crosby, Celebrini lead Canada in dominant win over Slovakia at worlds - Sportsnet.ca",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMmxoM0duN09za29aM1BTSndmZFhkdUFZaHBpWnp3TEVkWEVmOHVIeUdLdnFjSHZndkpUMzAxYk1fOEY0QzdxZGpzOEJZalFGamRReVR2TUotRjNGQ0dSN2EyMHNsdmtNMGZNYjRjYjVyb1drdzBJbmN0b2NZZ2pxT3JlbXUzM1NqYVVjSzU4QXRsanUyYXdZa2Y3a3QtZXRod2J0ZWh2RUxYa0JydXdsYTh5aEk3NUc1VFhvcERjclZXaGljc0l3UlQ2c3M?oc=5",
+      "published": "2025-05-17T23:14:00",
       "date": "2025-05-17"
     },
     {
@@ -433,23 +454,9 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Update: Severe thunderstorm 'watch' lifted for capital region - Ottawa Citizen",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iRzRDQ1JyckU4bnpreTc5WHBuSzlxWFRYMm1Falk4aUJLbkl1Mlp4SUpxVjZPbDRCQTZYN1ZoNWV2SUkxcllObnZHaEhqZ2xqaWRrOWZ1SktrWWp6STIzT2R2emNnbDRpbERjYU94c194QTcwSlE?oc=5",
-      "published": "2025-05-17T12:49:43",
-      "date": "2025-05-17"
-    },
-    {
-      "source": "Google News (Canada)",
       "title": "Canada now has a minister of artificial intelligence. What will he do? - CBC",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYVRIdmhBd1g2LWhLOExBbkNGbi04SXF4X09fckNFSjBKZWh3Y2llRzFNQUwzMHl0NWkxc0UwNjNtUEJMYkNnM05pOUE1RkFHT0UwUTl0SmZFMUc1ZjRYUi1XcE10LVo0b0FQOXNzVWwxQXJNUE1keWktUlZ2eUtKdElCTXpBZw?oc=5",
       "published": "2025-05-17T08:00:00",
-      "date": "2025-05-17"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "OTTAWA EARNS FIRST-EVER PWHL FINALS BERTH WITH 2-1 WIN OVER MONTRÉAL - PWHL",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSGpqLWVoTXFNM3J3MmZyRlJlM2RvRnRkX29PWGFJWVVueUtpcHdNRkp1b0N5VDBJcTRnU00wLU1XUU1GeHpSd0hUbXV5S1d5XzJla1o4QUpzdnBFUXUybHJpZENaenZJa2l2ZTFoTDk5dmhreE44eDdiUVg5QjREX0NMbVBlU3ZTRS02TVpnbDZadExIWVdtVGFMQ3pBMllrR3pRVVgyLXduazZjS2VIRWRR?oc=5",
-      "published": "2025-05-17T03:29:00",
       "date": "2025-05-17"
     },
     {
@@ -461,16 +468,23 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Ottawa residents could be allowed to enjoy an alcoholic beverage in parks this summer - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNUlyMVJUV29WWVduTy1fQ2pOa182NjNHTEtieHNIdmFqNlJMOEdQOU1OQVc0U0p5YVlnMFhjcXlMME5ZRXUwTDRmRjlseXNER1RpLXJiMGxiMjU0bmhkLXk5ME1lTFN5YmNlYzNDVHV4ck5jY1RkT3hERFAxTkpoYmVnT2ZWSHBpamhiRWxqeUExOF9jRk5GOHUzWU5kUzZvQ1ByMkpFR19IdzBYc3BmV0pkMEV2UU9lYU9oenZzd0YxZw?oc=5",
-      "published": "2025-05-16T21:57:56",
+      "title": "Which Ottawa restaurants are Michelin Guide-worthy? Peter Hum weighs in - Ottawa Citizen",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LYU1ubnBDT0wwQjhIOXdib2hVWDFjWWRFRFVwZXlpY3lBaG1RczhkVlpLcUlpeF9LVGNraE5TazhWZVBSMUt1UjdHTEhYTVQ3M3hiMFZhc19lZmRCb25lZjgtdmtlRDJzeHdRdzFjbnpyejd1QWNF?oc=5",
+      "published": "2025-05-16T22:59:35",
       "date": "2025-05-16"
     },
     {
       "source": "Google News (Canada)",
-      "title": "Kiweki Point: Official unveiling of an Ottawa jewel - Ottawa Citizen",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80U2p4YkprNHRNTGNGYnV3cXhSdWNmckpoVWZyYTVfV3UzQlRIOG1ROVdENjF3VDFGdWxYVmpuNkVBSkd4MTJzOHN3NHhhcXduMWh4d3lhd0dyYTB4V3VYUGNjU2tNSVdhXzY3a3Bpc1gzZw?oc=5",
-      "published": "2025-05-16T21:55:44",
+      "title": "Ottawa councillors give city staff nine months to craft 'bubble bylaw' - Ottawa Citizen",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92N2VyTXlEY2xCMWJzSEY1T0FjUVNYanQtTkozNXRXVGJDQlMzWjFiNGhfT2JZWWdVZXByMGppWWJJRXRucDNLOHZuNnA3ZTdBc0RsaEtYN01uai11bl9n?oc=5",
+      "published": "2025-05-16T22:43:02",
+      "date": "2025-05-16"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Drinking in Ottawa public parks could be allowed this summer - CBC",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWTViT3kyY0dWa05aLTZTSV9POUdtSzV6VEhYN0M5OTFqQ3ktaDUwdDJ2S3RwS1lvOURndnRvMUlNdjV5YjloRTQ0TE5XRWp6aGR3QkI5dHI5enpERG12bzE1WVpaN3p1WWRUUnZHWVZFOHlzaWVwXzFXWklwV1dMVlNSM2VSU095c0oyZGxhZGU3b3czTFN0emRyTGJ0VHBQazBlQUFza2FWS3g1?oc=5",
+      "published": "2025-05-16T21:58:22",
       "date": "2025-05-16"
     },
     {
@@ -510,20 +524,6 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Ottawa police seeking witnesses after man found injured in Vanier - Ottawa Citizen",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcElSQkdiRDdTR3kxOENUVlVYR1ppM2pMS216eXg1dzZCQ0VWS3JEWWt0cEtkTFJQNm1XWng2WWFFN3owTzlaN200NU1RX3dyZlhQZzBpelVTZTMtWXlFeWprU2k4LWFsdFlJdm0xLXNfdGRQZzdaSWNnSzFKX1ZTaFVUMjBiWXpDNlp0M1lCd180REZrVWdYb1lDbFk?oc=5",
-      "published": "2025-05-16T16:09:09",
-      "date": "2025-05-16"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "Canada Soccer Announces Pride Celebration Fixture in Toronto - Canada Soccer",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcDlQeElEUzRteVBJZEYzWDJVblJVRGRhT0M3dV9hVjdzMjdlTE9seTdqNGRHeENMN081RXlONG9LMWFVcE1XVUZTUlNERXg0WHhOSmdRUEoycFgtTnN4S2xtR3NxaUZMV0lJYVJXQmY4WmRmMGJQWVRDOFRHZHhvYmViTVB3cVA0aEdweXh0WEVoQ0JXM0E?oc=5",
-      "published": "2025-05-16T16:03:16",
-      "date": "2025-05-16"
-    },
-    {
-      "source": "Google News (Canada)",
       "title": "Forward Guidance: Our Weekly Preview - rbc.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUFxNHlhNUdnNTF6cWNLMzItNUE3NkxBQU1KNmhDeVlDakJVNjJKZm1IT3JRQ0JDN1hYSnJxSV9LVlhEZFRLZTdMX1ZoOFJDbXNaaWh3YVFfUFF0NnJJb2s3WTBUT01jamNTaTJzTHhva3NxQ0NFbTVUWUplakpuX2FxRXlMUS11NEtmamN5VWgydw?oc=5",
       "published": "2025-05-16T15:11:15",
@@ -531,9 +531,9 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "PWHL PLAYOFFS: MONTRÉAL AT OTTAWA GAME 4 PREVIEW | PWHL - Professional Women's Hockey League - PWHL",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU3lYaE1wV0dtNThTZ1FIaURJUGJTX2x2MEpUOVAwVUlJeEFQZC1oU2ZYT3ktcWt5MDhWbjBVTi1SakwyemRxQmUtb0Zhd2hZODVsWGNlRWJ5T1huT3hWRTNtLVlfd05yZUcwTmJ0Rm9PM3h1dkdOUWd5Zm9ueHZhZFJNek5DMk9YMlRPbzJlUTl2T29OdFE?oc=5",
-      "published": "2025-05-16T13:00:00",
+      "title": "Evidence builds that tariffs are chewing into Canada's economy - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HS1RKRWxsdVR3VUpSMXUwSGpSMGNvQmhMelNRTTdGZkhKUlQ2SXdsaXBOODV2QTFRWE9MakFUZ0FQanNac1l1ckR0U0dZWXEtMFNpVmxkTXVwSENaUGtWanJXUGk0QVBIbGJ6NldleUM?oc=5",
+      "published": "2025-05-16T12:03:14",
       "date": "2025-05-16"
     },
     {
@@ -545,16 +545,16 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Canada’s economy in flux as Trump starts cutting tariff deals - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnA5LUx4bHNLU01nVkxfVTNyZWhuYkR6c3JMSVcxcWQzTTctME9FTnRjM3drclVQaUdRbGhoOERLbTBWYWZVakdVUDlnMlktbGxMZy12eUZOLWlwRjJwU3I3UURWTGt1VmNGZnh3WlJWTUVsYnVmWm4zcnM5SmRYTll5TXVnU3hYdVBockJ6N3ktVmtYczJNUHgzX2o5MkE?oc=5",
-      "published": "2025-05-16T09:00:00",
+      "title": "E-scooters return to Ottawa roads for the summer: Here’s what you need to know - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORnRYQmZzdjROc05mWVoyQkRQVEppLUl4cHMwRzkybzhyY2FiZDdZYnFGNElaMUVmeERXU25TNndJZWphWVY5ZmxJdklseWhNQTc4RWdUcjJBMG4yX0V4TmYycno3OUxOVFVIbUJRSHJjclA0SmR3eHRLWVN2SS1wLVd3UlVVSjR0VkdLenFEMmNwLXMxVjRnem1sYk54Zk9mSS1NcVFOZkJFRWZLQnNQSDFIbExUdw?oc=5",
+      "published": "2025-05-16T11:05:31",
       "date": "2025-05-16"
     },
     {
       "source": "Google News (Canada)",
-      "title": "Protecting North Atlantic right whales from collisions with vessels in the Gulf of St. Lawrence - tc.canada.ca",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQWdqYnFEaEZwZkdzeHBfRXNVNnJsQ0RnbE1jNGI3U1p2alZTYjVQY2RYR3lXTmpESjRTWG9jbW9hdEFvOWVzQ1VESl9TM2VPUXVhdEZrdlZIN1Z3ZXlOV0V6eGM2b28xcGI0THl5UWhvTGp5RmcxN1JmNWxuQjJ5UmMtXzYxZzVCLUlJRUxZWXM3Tmt5b29rTUp3dFRTUU9JRTlFdGtvWkIydmlkS01zTmtnbTdVZS0tZmlOT2lEQ0hVZy1mbzNVMmN4b2FMQ3JBXzZmcm5mZTBKVGJWYmNFbFJsZw?oc=5",
-      "published": "2025-05-16T07:00:00",
+      "title": "Canada’s economy in flux as Trump starts cutting tariff deals - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnA5LUx4bHNLU01nVkxfVTNyZWhuYkR6c3JMSVcxcWQzTTctME9FTnRjM3drclVQaUdRbGhoOERLbTBWYWZVakdVUDlnMlktbGxMZy12eUZOLWlwRjJwU3I3UURWTGt1VmNGZnh3WlJWTUVsYnVmWm4zcnM5SmRYTll5TXVnU3hYdVBockJ6N3ktVmtYczJNUHgzX2o5MkE?oc=5",
+      "published": "2025-05-16T09:00:00",
       "date": "2025-05-16"
     },
     {
@@ -566,16 +566,9 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Citizenship Week: May 26 to June 1, 2025 - canada.ca",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOelVkcUx2enR0blluUGg3VDZsVm9nWXRlWVFLa1Nua1VVMFBOR1F5Y195VXhzcGdvQzhxOTg3ZlpEMEUxRVBCY242b25ZX1Z0RDBMZG9BU0JRd3Jqc3dtaHNacS0zMTEwaUF4OHZFcC0zS3RyTTBLUGtxREpQQ29aNWstTG5jQkkzMFdacmlDYUQ4dU5HM1pBTE5JREFrVlBMamR1MVZFQUVkVW83UGhoelVTN2lvWDdySG5KQ1czMVBTNzN2MERsOTlkQQ?oc=5",
-      "published": "2025-05-16T07:00:00",
-      "date": "2025-05-16"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "Hey, Michelin Guide! Ottawa restaurants deserve attention, too, city's top chefs say - Ottawa Citizen",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KUzlnOFljanpQQ21jQ0d4VFhvU2J1MVQxXzNjN3hrRXZvdnBxMVl2aTF2R0FXbVJrcGpLYWRKVHgwUmtZMXpQTjBLY3RYZ3Q1WFFBMGE5dkVMNjRkbHZ0Z0JjLUpCSElHVGk4OThnVFJldw?oc=5",
-      "published": "2025-05-15T20:55:17",
+      "title": "You can now fly direct from Ottawa to Victoria on Porter Airlines - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWnBIQTlJTmJNRDRoa2dRbld3XzNYeHdZeE93VG40T0FBcmxvR0dPaUR4MmFnNHVISlAxdWtuZHVhSVN1dGZqZ1BncUJwYXNzTEtBU2VBTnZRb2d4eWVwSTkzRk45Z05qM3daNHdNbGFWWEtRd2tINWNfbnZNb3dCRjlQRUV1SHM4MjhYcHh1cWFsQ3Nvcjh5R3hCWi10OHN5bndNRUx2QQ?oc=5",
+      "published": "2025-05-15T18:50:07",
       "date": "2025-05-15"
     },
     {
@@ -583,13 +576,6 @@
       "title": "RECAP | World junior players’ group chat on Hockey Canada investigation scrutinized in ex-teammate’s testimony - CBC",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUW84UkhBQXVDdGpLbktGa0pXSFJMNE1WSmxBZE9fa0tsR2pXaFFrWEJRcU9GRW4xM0t4bXN3Q05mUXR0SzJPUVRGQmU0MW9lSmozM3lDdEZubW1kWFdZd0hkdmVxLW5PbnBhdk9OVUdJNFVJbGpvNm41NXdyYVBJZFc1OXlYMmtZUHprQ3ltajVSX0hWd2JSdUhIOWU4ZzIzUnZGZHNRNzV0VTlyTDFkeWZ5TVFxeml5WDkxTHNaU0xrdXgzbFgwdlc1ZHM1ZkZ1MEU5ZmtGRUdPdjBkcGp6eGJrTXgwbU82eWcxc0xGanhyZ2dRM0VZ?oc=5",
       "published": "2025-05-15T18:43:00",
-      "date": "2025-05-15"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "Men’s Worlds Preview: Canada vs. Austria - Hockey Canada",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpdlM0bVFibm02LVVsQzhYZDFFUjRzWEk0WlRrWW81elRMMXZiVUtFZlhSTVBmS1AtYVc5cUF2UjN2d0ZtNU4xNGZrVFhJLTY5c0I2bHJ0NlFmeTFMSW9nZGdDVTFydTRuc2I2ZzRMMlJrZXRJMTJTWmlB?oc=5",
-      "published": "2025-05-15T18:20:00",
       "date": "2025-05-15"
     },
     {
@@ -608,13 +594,6 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Canada Soccer announces squad for 2025 Concacaf Women’s U-20 Championship - Canada Soccer",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV3N1bnI5a1A5cTVHYmdoTTNqbjl6dUdQejFDV09qSmtrQjV3NWRneko5amU1aFBzYnBiZ0V4RDRnR3pCektXZk9DX2w3TkRPOFJJRjZHR1dfRjljcHkyaVRrZ3JvVkRNTUgwRlNaNWN4YkZZS0pTY29zaXRFY3ZCTllVS0Q3Wk1LMGZQYWpyU19hbHdxek9lSkdzaDM0WHZsdFI3bjB3?oc=5",
-      "published": "2025-05-15T17:41:36",
-      "date": "2025-05-15"
-    },
-    {
-      "source": "Google News (Canada)",
       "title": "Ottawa Senators open contract talks with veteran winger Claude Giroux - Ottawa Citizen",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVkZPN1JjMGpFTEduMXZPSUZEaGlGaDhvc0NUWnZwZGlQS05laExxZ05CcndXWG5KaHZIS1BaY0YtMzhuTmtHcWdwZHdnekdFZ1RmVEx3ZXRCTVRmOHBzQkNDX3M3Qmd1VVZKVWtHdjhHNkxMb3JtbTBlQVdUNURZVExwQ3A5clE?oc=5",
       "published": "2025-05-15T17:18:24",
@@ -625,6 +604,20 @@
       "title": "What's open and closed in Ottawa on the Victoria Day long weekend - Ottawa Citizen",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DWW5RdERGU3c5MDdoR3VaX0JsUWpkWDMzSEVvbklWbTNBRXBnQm1zUTh6dElLTmgxa1NhckhydXFyY0s5OVlmOEs2Q1ZycTRmdjIwTUpaT0ZUTEpQd3gxZF9vTmhDdktkc29r?oc=5",
       "published": "2025-05-15T17:02:22",
+      "date": "2025-05-15"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Canada's military plans to be in the Arctic 'on a near permanent basis,' says commander - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa01Qelhkck05UTdhU05aU3R3VHpUWEFFX1JmeTdhRThnZXVxSEhzbk82TUExM2E1bGhGV2VGYzFmaFRTelR4MGNfZFpHUzliNGoxSUEwd2RBUVdyekxIcnVxRGVXcklUbHJ2djdzcUxtYUZxNTU5WUxoZGhlR3ZhM29XZi1YcGxmN0E?oc=5",
+      "published": "2025-05-15T16:49:18",
+      "date": "2025-05-15"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Chinese ambassador says China open to formal trade deal with Canada - The Star Phoenix",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeC1kU1lrU0ctMmVXeENqUDdNbktya3JEaFRmNjhxb3RsbGR5MUpmSWVFRFVJUDJLUjctYW1HT0UtZ3JENlc0NDFKalN4UHNGRHBSVlVfNm03SE85RGdDTEw5c2Y2RFBDTzFPSElRbHpyQVYxRGxlRHpBUXBPT3hqMngxMkYxYmp3MTlpaUkzSWVTaUFRekNHY1A0R3lDMExseXV5R2J3?oc=5",
+      "published": "2025-05-15T15:23:40",
       "date": "2025-05-15"
     },
     {
@@ -650,9 +643,23 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "What’s happening in the Ottawa area - Ottawa Tourism",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PUGVwQmF2QzNyUmVTczU0SmNrY0h4SFVrcHlPbHFJTkZUd3lyUDZTREEtaEFmSmplZS1qdUpqZjRVWGVuRmhqSzVMWXE2SUh0X0tzWEhPVU1iRTJtS2FpazlYTG9MN3NKYVo5YkhGUlh1QmtWLU94cU53?oc=5",
-      "published": "2025-05-15T12:00:00",
+      "title": "Housing starts for April 2025 - Canada Mortgage and Housing Corporation | CMHC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNnpobC1DMklRdHJ6aXdjTWxpVXg3cFhGdjdWdDMzdTdjRXVpM2VXYl9TWndhc21oTUNvVnR0dlFUWVJQVE9uS3VmWVFrbnhLbUUySVVfbTVyczV3MVJtakhSSVZYOFZyVWFXWG04TEI2Vndyb2ItYWdnNXYxYlVUdEdUUjBDdzNLczZzTTJveWQ?oc=5",
+      "published": "2025-05-15T12:17:58",
+      "date": "2025-05-15"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Canada's new tariffs on U.S. drop to 'nearly zero' with exemptions: Oxford Economics - National Post",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTctdGQ2Mkw3NXljLUxwQUFpUXpMZlZJc3YyWnJCWlhuWGNoZkZ3YnVuUHNtVW9pSWsyMGl0Sm9NS2NxcmNQS2JlaHkxRHRoMngyWHVBLXNocG5qVHpwZzlxQ3kxU0hXLXR3Q2s0ME1sQTRDaDlOXzduZDNpX1o4Mkc4WXRNem9mbzF3X0pJWjFFVGlVaXl1eEstc0w4aXU0TkN3MXNkdFNrdjFxQ3lqZzRwZzRZQVE?oc=5",
+      "published": "2025-05-15T11:25:14",
+      "date": "2025-05-15"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Canada could take a page from China's playbook in tariff war, says Nobel economist - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZDRydkZaY2JnYV9JNlZtdkdUOXFaZjhSVlJDMU5rNzc1Z05Ec2VrV2d6RGpTQmtSUWhoeENlSW4wcnRQek1BbUhEYWtzYlZmV3Bpa2pzVDNZRlNmaHFVVnQ4NlFsOUtBbGkxSE4tTGcybjhaamxzUmNkVjlrazVJV2FLTE5sMXduVDdn?oc=5",
+      "published": "2025-05-15T08:25:23",
       "date": "2025-05-15"
     },
     {
@@ -671,13 +678,6 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Canada Day - burlington.ca",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DZnVVekVpcE12SDRZSTctY2MtZ1Q3UU1GM0JrS3QwUlZtYm9YM0xRLUFpTzJPVFdsc0Q2Uk0ydWtqOEM5bE5oSXRuV2MwTlhlVS1JbDA0VWpUemtoeENqNzRjT2FROFo2TmlTUUlGcVRYZG5Rdk94TThR?oc=5",
-      "published": "2025-05-15T07:00:00",
-      "date": "2025-05-15"
-    },
-    {
-      "source": "Google News (Canada)",
       "title": "Busting the Myth That Ottawa Has Hurt Alberta’s Oil Industry - The Tyee",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYkw0NVdxRVR2d2dDOTJ3VWpXdEtQQWYwMl9ZejkxQmFHTEZlZ09OSXdRbF9qTlluRHBhSk1WTXN4Vi1kdEljdnZ0RXVtUGRjMnZqYmJvWXVEamJjdGN5TVVQWnNOV3p4UnRiRUZLZXlfdlBJT0RsbGFBbkdvWDNHZGZBb05TdjVwVmhKNGhR?oc=5",
       "published": "2025-05-15T04:14:09",
@@ -692,9 +692,9 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Ottawa's mayor supports a new 'bubble bylaw'. Here's why some councillors are opposed - Ottawa Citizen",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUVSZTE3Z0dOU2RxOWx2MHMyYmRFRFktRVV2b0l5V0MzZGcyRlVQazdnUG9faFhRV3V5RkJicVNYUkx3Vk1iYzEzZWN1MnRqRUpfV2hlREpfbWE2RHQ3OFN1TEtIMmEwX2d0UjYzQk9jNTZCRy12NWpGS05aR3lwZWtR?oc=5",
-      "published": "2025-05-14T21:22:21",
+      "title": "Expert tells U.S. senators Canada is a key ally on critical minerals - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ0s5TmVXOHgzcGJObkkwOTBnWlRhTFFJWkVsdVJUYUs4ZWdxY3A2dkNyeFFLVk5KZFVKdG5MVXFzc2g1VlRWQ3BKcVFYNVgxVnNlLTN2WUtzeVZLNG5SSUhQa21ZYmtwcmFFaUxXT2JPM3RGOFc4S1JZak9FTFQ0am1UajZwSl9velk0d3hISlM0amFsWXFPZEV4b0J6MTRzSVUyLWR6QQ?oc=5",
+      "published": "2025-05-14T20:37:18",
       "date": "2025-05-14"
     },
     {
