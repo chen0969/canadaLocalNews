@@ -1,16 +1,9 @@
 {
   "source": "Google News RSS",
   "query": "Ottawa OR Canada",
-  "updated_at": "2025-05-22T10:19:03.916282Z",
+  "updated_at": "2025-05-22T11:15:28.068379Z",
   "article_count": 100,
   "articles": [
-    {
-      "source": "Google News (Canada)",
-      "title": "Proposed $21M settlement reached with victims of Ottawa doctor Vincent Nadon - CBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jOEtFbUZDbFBLZEw0MF95NFZnd1gteVJlcjcyQjFFZ0tjRkI2eWp3VVhkZ0xYR0xJcl9PVXplY01vMGVqM0FzS0ZqUWxiMHlYZF9LTHZhTk1QcXRKVjBJd2ZHWDRvOEgtSzJnVEo1dklEVS1pWUZmaXdnVXk?oc=5",
-      "published": "2025-05-22T01:31:00",
-      "date": "2025-05-22"
-    },
     {
       "source": "Google News (Canada)",
       "title": "Carney says Canada in talks about Trump’s Golden Dome, releases mandate letter for all ministers - National Post",
@@ -86,13 +79,6 @@
       "title": "More homeowners hit with years-old water bills from previous occupants - CBC",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdHNpZF91LThfMlR4OWloazV2NW5NeFV2eE1wdC15QzA0YjFNMzh1LUdEcFRBLVc1TlVrVlpIYUhnaWhHRlNNVk1WMXMyb2oyelJhZEFGeDJ4Y2VVTHNFSDJncUVnSGMybXBYX05HQl9RU0hrbkxLWWFqRGtuZVV3UW04ZTh4dVRGWk1nVU1yZVhiWVY1Q09OUEFfUjdib1VVdGRzUHQ5NUVEck9aVTRBbDBLdTQxQ1J4Smc?oc=5",
       "published": "2025-05-21T14:54:46",
-      "date": "2025-05-21"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "Bell users experience widespread outage across Central and Atlantic Canada - Radio-Canada",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNUc2bDBBbEhCU3BGS2NkaTRmc0V6ZEFMa2t2azVyYWZ1OWIyOGcydkJwTmxQX0pPdmFxem1qRzBUbUJURkcyRnpEZmlyVVdPdGJnZi1RS0M0T2pLMkp4VUxCdUpFVlNoTndkYXR4OUFzaUFzMVlCTEtpYUhIVVVpeEhKTUc5djZSLWZzWHpZWWFTb1FTU1A1RzBhSTJIUnljcnBDa2RUQjlETkQ5MTNna05JbmhFRGY2dE04d3g2bw?oc=5",
-      "published": "2025-05-21T14:09:08",
       "date": "2025-05-21"
     },
     {
@@ -275,13 +261,6 @@
       "title": "Here's the itinerary for the King's visit to deliver the throne speech in Ottawa - CBC",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YSkJXZzAxd2NTR1M1YWM0ZWJCN1d3ekp6NFJTWVM5cXNXalJTN29CaWZJREhVMTdhbXY3VFBvMXN1QXA2b3Q1eGx2bFEwUnMyaHhKRzR6eHVtd0FkOGRXdDN2Q3FKbllhWTRoMHhjRF9LdnBSNlh6ZUY0eVFvUQ?oc=5",
       "published": "2025-05-20T17:22:44",
-      "date": "2025-05-20"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "Water activity rules and regulations - Banff National Park - Parks Canada",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNalNlYVliQWxBaVhTQ01PVlUxVDFTdVB3TFZBSUF2YjdjdXAxaFNEYktQS25fWEFtQm9QeHU0ZU1KeFpTa3FyVmlOdXpyS3dqMHhNMFJtWG9lbDkzY1ByM2cySm9penAzQXZRX0FRb0t5VW9YcWVKOG5TVWladjdMTWlIQ0hPbTl2VjU4Tll4YTdRaHAxTXNkQmdFXzZ6eGZI?oc=5",
-      "published": "2025-05-20T16:40:01",
       "date": "2025-05-20"
     },
     {
@@ -622,6 +601,13 @@
     },
     {
       "source": "Google News (Canada)",
+      "title": "Ontario budget commits to explore options to upload Ottawa’s O-Train to the province - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS0tabGFTVm5hTHBlUTlpRG9KMmFibVpZN1k3dnpKUWhxX2p4dXkwSi1GemhnN3dWRU9RNUE0elZvNllYR241TmxZYUY3WmNkRFhaaWZsTTdmRjQ0T3F4UU1mb2tKc3c2bElid3BxemNIeFNaQ1NrUmdTMUVnNzRVZ0poVlFVeUEteDJFdUUzSXpnbmpHNGU0aktDeE9KLXJvbUVPQUhUVUo0YWE2b3NTckJKWG5nZ0drMXI5b2ZqQQ?oc=5",
+      "published": "2025-05-15T21:35:28",
+      "date": "2025-05-15"
+    },
+    {
+      "source": "Google News (Canada)",
       "title": "Hey, Michelin Guide! Ottawa restaurants deserve attention, too, city's top chefs say - Ottawa Citizen",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KUzlnOFljanpQQ21jQ0d4VFhvU2J1MVQxXzNjN3hrRXZvdnBxMVl2aTF2R0FXbVJrcGpLYWRKVHgwUmtZMXpQTjBLY3RYZ3Q1WFFBMGE5dkVMNjRkbHZ0Z0JjLUpCSElHVGk4OThnVFJldw?oc=5",
       "published": "2025-05-15T20:55:17",
@@ -678,6 +664,13 @@
     },
     {
       "source": "Google News (Canada)",
+      "title": "Chinese ambassador says China open to formal trade deal with Canada - The Star Phoenix",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeC1kU1lrU0ctMmVXeENqUDdNbktya3JEaFRmNjhxb3RsbGR5MUpmSWVFRFVJUDJLUjctYW1HT0UtZ3JENlc0NDFKalN4UHNGRHBSVlVfNm03SE85RGdDTEw5c2Y2RFBDTzFPSElRbHpyQVYxRGxlRHpBUXBPT3hqMngxMkYxYmp3MTlpaUkzSWVTaUFRekNHY1A0R3lDMExseXV5R2J3?oc=5",
+      "published": "2025-05-15T15:23:40",
+      "date": "2025-05-15"
+    },
+    {
+      "source": "Google News (Canada)",
       "title": "‘You have to be aware of your surroundings’: Ottawa police officer tips to keep pedestrians safe - CTV News",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHZHZVhGRHY1Q0hvQTZKVDBrcktBRnhZc0JTX1MzbnppOE5aRnhmZ2lKNWVoWi1FWmRST0VoalRGeTRCU0xfdVNBaUEyeDBrdk5PTlFKZG0wM1pQQlhXU1lZRk5kT2E5emM3b0x5Q3Z0RmVQcmJYdFFSSmY3ZFFDNGhQbmdLX25QTlRjcFZwSkFtdjZBMEszcW50ZW12TUZ5R2p3anJYQnNmOXdYcEcyUUJWdEVxU004YXJ2U1ROaTBxc0hMT1hrNlhwWEs?oc=5",
       "published": "2025-05-15T12:25:53",
@@ -695,6 +688,13 @@
       "title": "Housing starts for April 2025 - Canada Mortgage and Housing Corporation | CMHC",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNnpobC1DMklRdHJ6aXdjTWxpVXg3cFhGdjdWdDMzdTdjRXVpM2VXYl9TWndhc21oTUNvVnR0dlFUWVJQVE9uS3VmWVFrbnhLbUUySVVfbTVyczV3MVJtakhSSVZYOFZyVWFXWG04TEI2Vndyb2ItYWdnNXYxYlVUdEdUUjBDdzNLczZzTTJveWQ?oc=5",
       "published": "2025-05-15T12:17:58",
+      "date": "2025-05-15"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Canada must maximize existing pipelines before building more, Guilbeault says - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1VsTEV1X3NaeHN5MnE2QUF1QmQ5RFl6V0NzN2x5cEFPVEhyOEE1VkZzNk1HenFVSjB1b2hIUmFxRVRqeFNORUMyTm9HMjd1cWN5aFQ2STR4N2hMc052cDU2UEI4OXh3ZmpLdTBucV9LeHVIeUdaMEJMOFFBdV82R2dScUZJTlgwT1pULTk3RXhKN0RKZWxaNFlON0w?oc=5",
+      "published": "2025-05-15T11:59:45",
       "date": "2025-05-15"
     },
     {
