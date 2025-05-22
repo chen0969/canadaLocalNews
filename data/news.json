@@ -1,9 +1,16 @@
 {
   "source": "Google News RSS",
   "query": "Ottawa OR Canada",
-  "updated_at": "2025-05-22T06:25:57.292218Z",
+  "updated_at": "2025-05-22T07:17:21.845815Z",
   "article_count": 100,
   "articles": [
+    {
+      "source": "Google News (Canada)",
+      "title": "Canada discusses joining US Golden Dome missile defence programme - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zdVRJVWwzTTcyTk9JV1NtbVVlX3dISXhwLUhNUnI1Yl9WNVF6QVduQ25ud1Z0MWV3R2g2Z1k3OGJWZXNPTG9yWFJRV18zZzhsZllnMmN3bGVuQdIBX0FVX3lxTE1ZMTQ1aHBjanJWQWQtWmNGR3hPY0JxdzAyS2tmSWl0bWY2QWQtQkZhNjk1LXR5RGFiMzVidTd0U0UwcHZQNHNDS04tcWN2WDlHS0dIekc0dTRFbzkwVEVj?oc=5",
+      "published": "2025-05-22T00:55:07",
+      "date": "2025-05-22"
+    },
     {
       "source": "Google News (Canada)",
       "title": "Carney says Canada in talks about Trump’s Golden Dome, releases mandate letter for all ministers - National Post",
@@ -272,13 +279,6 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Water activity rules and regulations - Banff National Park - Parks Canada",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNalNlYVliQWxBaVhTQ01PVlUxVDFTdVB3TFZBSUF2YjdjdXAxaFNEYktQS25fWEFtQm9QeHU0ZU1KeFpTa3FyVmlOdXpyS3dqMHhNMFJtWG9lbDkzY1ByM2cySm9penAzQXZRX0FRb0t5VW9YcWVKOG5TVWladjdMTWlIQ0hPbTl2VjU4Tll4YTdRaHAxTXNkQmdFXzZ6eGZI?oc=5",
-      "published": "2025-05-20T16:40:01",
-      "date": "2025-05-20"
-    },
-    {
-      "source": "Google News (Canada)",
       "title": "Eight smoking hot housing markets across Canada - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1daNThzUi16bng3OUVHVHJhb0ZxV1hZRDVpV0pFWVBZZE1iYzBfNGpWc3MyVG1EVDkwZ0NiOG1uSnlXTTlHX0dmRUUwRVhwN213Mi1GN213VEt4Ym44bkNBYWh5T1p4NWlDWEJfU3Vkc2FQdG93cG1uc1RqOWZxNE95YlFfVDBOUGlQZ3hGVzJJUTFINXJxM0UwN2ZwN1FPek1mQ0dNZ2JCcTAydWRDM29yQWhkZw?oc=5",
       "published": "2025-05-20T16:27:51",
@@ -317,6 +317,13 @@
       "title": "Canada Child Benefit payments go out today. Here’s how much you can expect - Toronto Star",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdVhaTkliY0ZyZ2gtZG92em8tSjdlRGdFQkdoOHNIYU04YXpsTTJSdEFEME5WakNua0Q4a0NsY0NxWFUxMHduMV9iTmdGWUZtWnVGN2QyenZLYkNMcUJ6dUNhTHBYMkZHbGFKcF9OMHN1V0hHenlCTVFqUXNxejNzZnpXOVNVWFJNX0lCZmgzem1kb1pOVUl1YksxU1FFNm51SUsweEJtbEZqQWRGdkRZQ0wzam1iLXl2SGtpUmR0MGZDdVRsalhuWkg5WXpZenlmb1pfdUc2T1hCVUtHdUQ2a1Y0dUVsTlhmRlNaZnA5VQ?oc=5",
       "published": "2025-05-20T13:15:00",
+      "date": "2025-05-20"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Posthaste: Canada home prices are heading into correction territory - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01RnRaZ3BJb2Fhd19kR3VYUW5tMUZ0d19nV25tYVlwaGtaQkMyT1FpNjQ4TE5vQ3J0dmtPaHd6VWtrdGFvRkN5cEM5RlVaWHM3NzlvdTFiLWNfd3BrdlhPMk9hREk4T3E3RDJBZG51REM5WHFON3RLRS1n?oc=5",
+      "published": "2025-05-20T12:09:54",
       "date": "2025-05-20"
     },
     {
@@ -454,6 +461,13 @@
     },
     {
       "source": "Google News (Canada)",
+      "title": "Canada’s finances deteriorated faster than any other G7 country - Fraser Institute",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWGZvV0dtU19yeldqU2MtVVZncElpMTlYSmJXVjE2b1ZJSFRoNG40VjdRTmpERUd1NW1kd0ZDbVYxQWlkUnkta0ZrZGRuWjdrMWM0Z2dFTXZJcXZtX09Kd2dHZzZrNGJiMWRIeWdDbWxiakpNMWxrb25OMk8ya3owbHlwTEs1TS05NWI5eGU4WVd1WGM2X2lMa0JkbllVb3pfLUE?oc=5",
+      "published": "2025-05-18T15:21:17",
+      "date": "2025-05-18"
+    },
+    {
+      "source": "Google News (Canada)",
       "title": "Opinion: Alberta separation from Canada not as simple as some think - The Star Phoenix",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZFF0QkluN0xoUk10WGU5QUdHa1ZidGltalNuZnhpZ1RXb2U3WWsyTEsxTzZLN3h4VW92UVZLUTRZaF9OMldlUE1nbEtxaFFxREdfV1NlblBlR1U1UVpqWHZPcndpUDZncFJoMzBmbDE5UHZPRkVPTnRWcW1VY24zck9kclZ3WHlwT1ZCelZSRHZtMGp2eThock5wREdUZkZVUzJPMGh5dGIzaEdHYlFvQVhB?oc=5",
       "published": "2025-05-18T13:06:19",
@@ -580,13 +594,6 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "E-scooters return to Ottawa roads for the summer: Here’s what you need to know - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORnRYQmZzdjROc05mWVoyQkRQVEppLUl4cHMwRzkybzhyY2FiZDdZYnFGNElaMUVmeERXU25TNndJZWphWVY5ZmxJdklseWhNQTc4RWdUcjJBMG4yX0V4TmYycno3OUxOVFVIbUJRSHJjclA0SmR3eHRLWVN2SS1wLVd3UlVVSjR0VkdLenFEMmNwLXMxVjRnem1sYk54Zk9mSS1NcVFOZkJFRWZLQnNQSDFIbExUdw?oc=5",
-      "published": "2025-05-16T11:05:31",
-      "date": "2025-05-16"
-    },
-    {
-      "source": "Google News (Canada)",
       "title": "Canada’s economy in flux as Trump starts cutting tariff deals - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnA5LUx4bHNLU01nVkxfVTNyZWhuYkR6c3JMSVcxcWQzTTctME9FTnRjM3drclVQaUdRbGhoOERLbTBWYWZVakdVUDlnMlktbGxMZy12eUZOLWlwRjJwU3I3UURWTGt1VmNGZnh3WlJWTUVsYnVmWm4zcnM5SmRYTll5TXVnU3hYdVBockJ6N3ktVmtYczJNUHgzX2o5MkE?oc=5",
       "published": "2025-05-16T09:00:00",
@@ -598,6 +605,13 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY1FicWdTcV90bzRXY3E3MFJSNG95Qm8yN3dCdVFPNEZvQUk5SU5vdEVfVV9tZ1F1UzlMYlNLWnVGbWFfaVpqVXBZTXp0d2V3aV9ycVdjWG9Wdmw0dGNIemZCeC05Vjl6SU1PUllycGlhR2xZdHhpVVRZWE5xdlpKRW5sRVJJQ3hCM1ZMeF8zWkUxbWV6emJFb3ZpZzVTLXJSaXBSWktoOHM5ZFZ3S0xEdTNjMzlZeU5KY2R6SVJIRkpTUQ?oc=5",
       "published": "2025-05-16T07:00:00",
       "date": "2025-05-16"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Ontario budget commits to explore options to upload Ottawa’s O-Train to the province - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS0tabGFTVm5hTHBlUTlpRG9KMmFibVpZN1k3dnpKUWhxX2p4dXkwSi1GemhnN3dWRU9RNUE0elZvNllYR241TmxZYUY3WmNkRFhaaWZsTTdmRjQ0T3F4UU1mb2tKc3c2bElid3BxemNIeFNaQ1NrUmdTMUVnNzRVZ0poVlFVeUEteDJFdUUzSXpnbmpHNGU0aktDeE9KLXJvbUVPQUhUVUo0YWE2b3NTckJKWG5nZ0drMXI5b2ZqQQ?oc=5",
+      "published": "2025-05-15T21:35:28",
+      "date": "2025-05-15"
     },
     {
       "source": "Google News (Canada)",
@@ -650,9 +664,9 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Chinese ambassador says China open to formal trade deal with Canada - The Star Phoenix",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeC1kU1lrU0ctMmVXeENqUDdNbktya3JEaFRmNjhxb3RsbGR5MUpmSWVFRFVJUDJLUjctYW1HT0UtZ3JENlc0NDFKalN4UHNGRHBSVlVfNm03SE85RGdDTEw5c2Y2RFBDTzFPSElRbHpyQVYxRGxlRHpBUXBPT3hqMngxMkYxYmp3MTlpaUkzSWVTaUFRekNHY1A0R3lDMExseXV5R2J3?oc=5",
-      "published": "2025-05-15T15:23:40",
+      "title": "Tariffs hitting shoppers in Canada and U.S., with some prices set to rise at Loblaw stores, Walmart - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbk1Kci1ZSkxXeHNNeENPYTZqdzVkM0s3N2puQW91TFdRSFFCeUpITE8zUnh2Z19BWGRPazJjQWZLRW1HRVZ4cDlkZjd0ZGpyakNHbW9jSDhaTGNrdHQ4NEZ1X3QtWDdpaGlXZU43VjNCc19iRnp1TTZtSUI5RGgxN2JRaV9aUURM?oc=5",
+      "published": "2025-05-15T14:50:00",
       "date": "2025-05-15"
     },
     {
@@ -671,23 +685,9 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Housing starts for April 2025 - Canada Mortgage and Housing Corporation | CMHC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNnpobC1DMklRdHJ6aXdjTWxpVXg3cFhGdjdWdDMzdTdjRXVpM2VXYl9TWndhc21oTUNvVnR0dlFUWVJQVE9uS3VmWVFrbnhLbUUySVVfbTVyczV3MVJtakhSSVZYOFZyVWFXWG04TEI2Vndyb2ItYWdnNXYxYlVUdEdUUjBDdzNLczZzTTJveWQ?oc=5",
-      "published": "2025-05-15T12:17:58",
-      "date": "2025-05-15"
-    },
-    {
-      "source": "Google News (Canada)",
       "title": "Canada's new tariffs on U.S. drop to 'nearly zero' with exemptions: Oxford Economics - National Post",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTctdGQ2Mkw3NXljLUxwQUFpUXpMZlZJc3YyWnJCWlhuWGNoZkZ3YnVuUHNtVW9pSWsyMGl0Sm9NS2NxcmNQS2JlaHkxRHRoMngyWHVBLXNocG5qVHpwZzlxQ3kxU0hXLXR3Q2s0ME1sQTRDaDlOXzduZDNpX1o4Mkc4WXRNem9mbzF3X0pJWjFFVGlVaXl1eEstc0w4aXU0TkN3MXNkdFNrdjFxQ3lqZzRwZzRZQVE?oc=5",
       "published": "2025-05-15T11:25:14",
-      "date": "2025-05-15"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "Canada could take a page from China's playbook in tariff war, says Nobel economist - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZDRydkZaY2JnYV9JNlZtdkdUOXFaZjhSVlJDMU5rNzc1Z05Ec2VrV2d6RGpTQmtSUWhoeENlSW4wcnRQek1BbUhEYWtzYlZmV3Bpa2pzVDNZRlNmaHFVVnQ4NlFsOUtBbGkxSE4tTGcybjhaamxzUmNkVjlrazVJV2FLTE5sMXduVDdn?oc=5",
-      "published": "2025-05-15T08:25:23",
       "date": "2025-05-15"
     },
     {
