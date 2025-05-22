@@ -1,7 +1,7 @@
 {
   "source": "Google News RSS",
   "query": "Ottawa OR Canada",
-  "updated_at": "2025-05-22T16:22:15.773256Z",
+  "updated_at": "2025-05-22T17:15:52.271883Z",
   "article_count": 100,
   "articles": [
     {
@@ -9,6 +9,13 @@
       "title": "Men’s Worlds Preview: Canada vs. Denmark - Hockey Canada",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiUDRkOTMwNm84RUl3TURUV1pHQ3B4VVJkRGUxZzhJY1RuUWhlNERoQXp0Y1lKaDRkQVMxZTRRTkJEM2k3WlRZY2hod3JEbWg4blRfNlFhVG1rR0VTeDh3ZXVLYkh2cE1NU3NUc0tzOW5sQWFTS0RjUU13?oc=5",
       "published": "2025-05-22T15:06:36",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Canada Post, union have no talks scheduled as clock ticks down on Friday strike action - Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZUlHMmItcHdJSUxMSndEc1puNEQ5dEFSMnpBX0xZYXN1VlFDTTZncURnMWFxVnMyT0JPZ0lTcDhBMGM0dXkyWmtlcmRxRnItRVlmUjg0aklma0dsYkJqcXA2UXpLMVliOTJ2cWZGVGNmckhHOEtYUnRyNGwwTFhkN3dvR0N5YkxnQ0NVWFNrZkNQZERYT2tpNXpDS3lVQnhjMHdDNzhDSUdlQlNrLWN4WGFUVmFMM0lqT2NrLTV2bVhhRlVtbUMyR1JuSkNLa21NQ3g4SFlFcUl4WG0yNGQyam1rQ0UxNnBuTDk5b0l4Nm1OYmZCU0hTZTNQRm0?oc=5",
+      "published": "2025-05-22T15:00:00",
       "date": "2025-05-22"
     },
     {
@@ -23,13 +30,6 @@
       "title": "Municipal Services During a Potential Canada Post Strike - Niagara Falls, Ontario, Canada",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VHMURuN2NGVWI1bm9kaFpMSlRUSDBYZTloZ3lXaTZFV096d3k1ei0zaHZpazVTejVMbEltTjNoVkZoOHdSbUQtMFJ2LVgzOGtRMDR2elpiS0ItYk1TazVXemppTmg2Z3RBS3RkVE5HX2IybmxLU3BrVkJVNlU2SnVlSlpUczBjSzZZczRuejFWaFBqblY0SFh3?oc=5",
       "published": "2025-05-22T14:43:20",
-      "date": "2025-05-22"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "Canada Post by the numbers: Where things stand as strike looms - Global News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DLXlJWW00M0swdGJld2pJUmpqNkJiZnZ1akNRNG1XR1ZUTDR2dDhjdy1CeE90Ynd6MUZzcmVTTlEzR3VEM3J6eF9wUXZnVVpTUmpXMHBDcGJ2VHdJaThIOXkzU05KTEY2ZzFTVEdLdkxrLUVsVU9tYXVR0gF_QVVfeXFMTzU0NVNnMzFoQ1EySUp1NzIzMEZscXNZbDFTQmVvNFZta0YybUxwajVMbDdmdVFIbVVqSXR0bFFveUk5LWFzc1BsME9vaFMxX1lRZW5wUkRWUGZpQ25CaGE3LWtrVTFZUWhudzBtOHBNS25QcngxMlo4N2RmNThkWQ?oc=5",
-      "published": "2025-05-22T12:12:26",
       "date": "2025-05-22"
     },
     {
@@ -265,6 +265,13 @@
     },
     {
       "source": "Google News (Canada)",
+      "title": "Team Canada defeats Sweden at men’s hockey world championship - olympic.ca",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbTdzNGVBREJUMTlWZVpUYzlYQmNHWEhKSVNEbkZaNkNlaENOeFlFZDBBR0l0dnNMS2xSZzZFdEZNTnRrRTlpOXlaRnRUTzE0S0RTNEtjYjhOZVRBb2hDT0txOUxaMW1xRXpVVTM2b0ZzbXVaVnpzd2g2QjM4VnEwckloTTJLMnZWOXdBZEo0bEQzMUxYZFE?oc=5",
+      "published": "2025-05-20T21:45:46",
+      "date": "2025-05-20"
+    },
+    {
+      "source": "Google News (Canada)",
       "title": "Hockey Canada trial: NHLer recalls woman 'taunting' players in hotel room - London Free Press",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVWl0U1BqQ0tqRmJCdFFfU3RfQTNvRnFLVGc5c3JSZ1IyV0NzeGlHN0RwWUhPdlRLcHFSMWd1bC1fUENlU2xjVUxQODRIUWc1Y0pHOGRpSnhhVFBaU29hS3I3OGluMzZzRXFTOGZ5a1VLU2NXTFpQUi1hcFlMSDVYdHotTHJTaDFySkRrWXhMRmhaX2ljdm96Mm1TMHJNV21TazN4SE1YODlYNTQyRnM0YU80X0M5UG4tMnc?oc=5",
       "published": "2025-05-20T21:32:53",
@@ -300,9 +307,23 @@
     },
     {
       "source": "Google News (Canada)",
+      "title": "Amid Alberta referendum questions, Houston says Canada is better united - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd1ptYnBpNjRRa0t2b1ktS3BRdkthUGRUbUIyV25aYWJ0YkR5ZTQzZnZCNWhkeEFoOC1BZWtkOUV1VjRTOEdwZ0J6WG1GYk92LXp3M2JCTUFIYWpZUGpkUjM1QW9QQlhhUVFKQklQY3Vyc0V3dGxyYWdiT1dSVVRPYjhxa3JjYmRIZ0I3cmJlcHFxNE56SE1Tbjd5MTlINHBwLTFPQjFNNFVGdw?oc=5",
+      "published": "2025-05-20T19:52:15",
+      "date": "2025-05-20"
+    },
+    {
+      "source": "Google News (Canada)",
       "title": "Liberal Party of Canada Announces 2026 Liberal National Convention - Liberal Party of Canada",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVXB0SGpJZmxoWWwtRHZPNjRRYW41YkVGdW5EZzdsejJQZ2loNEpCbnR6WWlBQzRLb1pMQ0Y4TVk5QnBsSW81cFAtTkdta21LMzM3TGhtNTZpNkRqQU9pSnpQRm4xN3EyYzBMcHNJZmpUZk5sV012VVh3czNZeXYxUFJvNkFHT2ptOUxBS3RLOA?oc=5",
       "published": "2025-05-20T19:42:55",
+      "date": "2025-05-20"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Ottawa Police Service introduces new Mounted Unit - Ottawa Police Service",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR3BCTGp6Y0VLQmZDZHZfZVNaNGFUeFh2aG5TQ0VXRTJNNGtCdzJHYkIxdDJWeFg1aTJ6ZTI1V0FBR3FGRWl5dFY2bFI3SGN4bEtOZXdlTzFBM1BuSFByWUl5U3ZyLWo1SjNPU29uQ29Dcm82ZnM2RFAxWEVEUGhyWTE5Z3lHMFlMelpCM05zRndTU05Y?oc=5",
+      "published": "2025-05-20T19:39:24",
       "date": "2025-05-20"
     },
     {
@@ -391,13 +412,6 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Water at Ottawa’s 4 public beaches will not be tested daily this summer - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWxXRnFpVkZLT2NVT0ZPTmUyZjZIZFNkdmtVSzY1b0hHejdPd01rdGU3X2RYdVVDVEl2dmhhanEtMnpmZ0hELWhLblNFS0Q3SDhzR3EtVnZuWENLV1Fna1JuUjhyWF9YREJSdm9Pem9MWlNSX3FCVHp0UUJCVGQ0RGc1bXlvZXZUdlE1bks1bEhTNDB1SGNib0QwV1dUVi1ZcFhDbEJtaDdrS0dTbnc?oc=5",
-      "published": "2025-05-20T10:49:08",
-      "date": "2025-05-20"
-    },
-    {
-      "source": "Google News (Canada)",
       "title": "Five big moves Mark Carney must make to secure Canada’s place in the world - Policy Options",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjY09WTHZRajRfVFlDLTZtVlh0UXdBcjJfS05sUTVBdjJBTldQUHIzckM0bjhZcGFJQ3JDczJrVVVoZ2UyZGE2YTZ2LUJiR1h1alcxbU1pN3d2UWotQUZpMkI1djhWTFBmeGdfeGlDNjNjZFk3UFhCemMzbWREdw?oc=5",
       "published": "2025-05-20T10:34:04",
@@ -478,13 +492,6 @@
       "title": "Eco-friendly transportation a condition of planned Ottawa Senators arena - CBC",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeXNZMGZvdTBjN3ZRWWpCSXFlSENvS21vcmhHeW9VaEp3MTVXY1U2bVRQdTcxa3BaOG9YaWVKSnNFb01pRjZKS1pSRnpzYnVaRkVPdVNuVzZpOXV4Y1ZzQWRyM2lsT2pFR2J4OVBoVVlWVHZFajVVQnlISFJ6Ukk0akRkaUZFOWJ6cXg1UWV2T05PSHFuc3VoMmpSamFIU0pobWZyMW1fUllIU3NIa0VQaDRaOVdwU1RSZG50Uw?oc=5",
       "published": "2025-05-19T15:51:23",
-      "date": "2025-05-19"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "Everything you need to know about Tamarack Ottawa Race Weekend - Ottawa Citizen",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVZvYVdCWFV4SWxpalFmV3A0Y0hwWXY2X3NzSEl4MHl4RGVuci1QX195WVdqSDRwSUJ6WU03RjFUWVBEbVB2dGlCT1pxc1Qya2hyUFNWRl9DM0MwblRUYjZjdUpPS3Uzc2gyelE3X1VoVFBWcjRFemVFUnROS3JiZ0xYa1JEMDM3SDVEVUpxMDhaU3hRRklmYw?oc=5",
-      "published": "2025-05-19T15:39:33",
       "date": "2025-05-19"
     },
     {
@@ -615,6 +622,13 @@
     },
     {
       "source": "Google News (Canada)",
+      "title": "Forward Guidance: Our Weekly Preview - rbc.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUFxNHlhNUdnNTF6cWNLMzItNUE3NkxBQU1KNmhDeVlDakJVNjJKZm1IT3JRQ0JDN1hYSnJxSV9LVlhEZFRLZTdMX1ZoOFJDbXNaaWh3YVFfUFF0NnJJb2s3WTBUT01jamNTaTJzTHhva3NxQ0NFbTVUWUplakpuX2FxRXlMUS11NEtmamN5VWgydw?oc=5",
+      "published": "2025-05-16T15:11:15",
+      "date": "2025-05-16"
+    },
+    {
+      "source": "Google News (Canada)",
       "title": "Canada Post should end daily door-to-door delivery, allow part-time work on weekends, report recommends - CBC",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13YWVvdU5LY2dFdG9jR0g4clRvWEZ6a2xsdjJsUHFZM3hWYXUxb2RpbEhkemZpTlVKTlVoMzd2SjNsU00xaHBMb0hTLUZrRWVHRS1qZ0lSOW5UZjVzbG91dWRJWVpOR0lUekU1dFA0Xy1QdnhlQXVBejVTdw?oc=5",
       "published": "2025-05-16T15:06:00",
@@ -688,20 +702,6 @@
       "title": "Ottawa Senators open contract talks with veteran winger Claude Giroux - Ottawa Citizen",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVkZPN1JjMGpFTEduMXZPSUZEaGlGaDhvc0NUWnZwZGlQS05laExxZ05CcndXWG5KaHZIS1BaY0YtMzhuTmtHcWdwZHdnekdFZ1RmVEx3ZXRCTVRmOHBzQkNDX3M3Qmd1VVZKVWtHdjhHNkxMb3JtbTBlQVdUNURZVExwQ3A5clE?oc=5",
       "published": "2025-05-15T17:18:24",
-      "date": "2025-05-15"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "What's open and closed in Ottawa on the Victoria Day long weekend - Ottawa Citizen",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DWW5RdERGU3c5MDdoR3VaX0JsUWpkWDMzSEVvbklWbTNBRXBnQm1zUTh6dElLTmgxa1NhckhydXFyY0s5OVlmOEs2Q1ZycTRmdjIwTUpaT0ZUTEpQd3gxZF9vTmhDdktkc29r?oc=5",
-      "published": "2025-05-15T17:02:22",
-      "date": "2025-05-15"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "Canada's military plans to be in the Arctic 'on a near permanent basis,' says commander - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa01Qelhkck05UTdhU05aU3R3VHpUWEFFX1JmeTdhRThnZXVxSEhzbk82TUExM2E1bGhGV2VGYzFmaFRTelR4MGNfZFpHUzliNGoxSUEwd2RBUVdyekxIcnVxRGVXcklUbHJ2djdzcUxtYUZxNTU5WUxoZGhlR3ZhM29XZi1YcGxmN0E?oc=5",
-      "published": "2025-05-15T16:49:18",
       "date": "2025-05-15"
     }
   ]
