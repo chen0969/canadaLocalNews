@@ -1,14 +1,14 @@
 {
   "source": "Google News RSS",
   "query": "Ottawa OR Canada",
-  "updated_at": "2025-05-22T09:19:02.390293Z",
+  "updated_at": "2025-05-22T10:19:03.916282Z",
   "article_count": 100,
   "articles": [
     {
       "source": "Google News (Canada)",
-      "title": "Canada discusses joining US Golden Dome missile defence programme - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zdVRJVWwzTTcyTk9JV1NtbVVlX3dISXhwLUhNUnI1Yl9WNVF6QVduQ25ud1Z0MWV3R2g2Z1k3OGJWZXNPTG9yWFJRV18zZzhsZllnMmN3bGVuQdIBX0FVX3lxTE1ZMTQ1aHBjanJWQWQtWmNGR3hPY0JxdzAyS2tmSWl0bWY2QWQtQkZhNjk1LXR5RGFiMzVidTd0U0UwcHZQNHNDS04tcWN2WDlHS0dIekc0dTRFbzkwVEVj?oc=5",
-      "published": "2025-05-22T00:55:07",
+      "title": "Proposed $21M settlement reached with victims of Ottawa doctor Vincent Nadon - CBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jOEtFbUZDbFBLZEw0MF95NFZnd1gteVJlcjcyQjFFZ0tjRkI2eWp3VVhkZ0xYR0xJcl9PVXplY01vMGVqM0FzS0ZqUWxiMHlYZF9LTHZhTk1QcXRKVjBJd2ZHWDRvOEgtSzJnVEo1dklEVS1pWUZmaXdnVXk?oc=5",
+      "published": "2025-05-22T01:31:00",
       "date": "2025-05-22"
     },
     {
@@ -163,13 +163,6 @@
       "title": "Nova Scotia takes Ottawa to court, saying feds must protect land link - National Post",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV1hpNUJ0eGJ4dmVHanFQbWZJVUpJQXAzQ0FEaGh0T3BwVzBHV2REWHplNC1ZbkNYWWo5QWZ3cWRfUVlicXNRS18wN085VmQ0cHh4dm5qc2ZBajNZRXcyWGZjd0xFeHVGMmF1VU5OX3ZTTG9fWjBYZEFtcXFVckdtMm0tMFdwWXJiRlpvLWRWekJQaWJVUEQ2TmZOcU51RmRnRnotNWtULUI?oc=5",
       "published": "2025-05-21T02:30:07",
-      "date": "2025-05-21"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "Federal offender wanted on Canada-wide warrant arrested - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOTZCSFlqZHB3a3FaX0YyMDA1SExkOXVRNGNJSExtWkJnOGdtRjRidzQ0TVhxVmVxQUNKQUxMcnQ4VFhQNEhYUzZoWERxclY4RGpBSGJ6UVRuRVNCZG9XTmtoV2d4LTd2RHQ3bUpMUlM0V2ppSU9CTlRjVVRLM1RLNEY4X1NSMHNudEQ4SFNCYlFwQU9fWjhwRnRkMDhiZlRiWXZwYVp0c2Fsb3hDWmJWS2xBSWRiMFJhbjc0dw?oc=5",
-      "published": "2025-05-21T00:56:00",
       "date": "2025-05-21"
     },
     {
@@ -471,6 +464,13 @@
       "title": "Ottawa's controversial evening parking proposal generates mixed reactions in ByWard Market - Ottawa Citizen",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkMjNXcDA1d2NjR19JZUx6TUxpSUtUbV9oQXh2bEJ1a3VoZXBfUnRUSmdVQ0UxbTlON0lMbGVTQUluRWVhamY5aTRoQldibzczcEYyaU1lbWR1OTBEWU1ta0ZYMWpNc1lWNGc?oc=5",
       "published": "2025-05-18T19:54:24",
+      "date": "2025-05-18"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Canada’s finances deteriorated faster than any other G7 country - Fraser Institute",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWGZvV0dtU19yeldqU2MtVVZncElpMTlYSmJXVjE2b1ZJSFRoNG40VjdRTmpERUd1NW1kd0ZDbVYxQWlkUnkta0ZrZGRuWjdrMWM0Z2dFTXZJcXZtX09Kd2dHZzZrNGJiMWRIeWdDbWxiakpNMWxrb25OMk8ya3owbHlwTEs1TS05NWI5eGU4WVd1WGM2X2lMa0JkbllVb3pfLUE?oc=5",
+      "published": "2025-05-18T15:21:17",
       "date": "2025-05-18"
     },
     {
