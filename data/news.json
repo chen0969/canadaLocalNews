@@ -1,9 +1,23 @@
 {
   "source": "Google News RSS",
   "query": "Ottawa OR Canada",
-  "updated_at": "2025-05-22T11:15:28.068379Z",
+  "updated_at": "2025-05-22T12:36:50.072670Z",
   "article_count": 100,
   "articles": [
+    {
+      "source": "Google News (Canada)",
+      "title": "Canada Post by the numbers: Where things stand as strike looms - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DLXlJWW00M0swdGJld2pJUmpqNkJiZnZ1akNRNG1XR1ZUTDR2dDhjdy1CeE90Ynd6MUZzcmVTTlEzR3VEM3J6eF9wUXZnVVpTUmpXMHBDcGJ2VHdJaThIOXkzU05KTEY2ZzFTVEdLdkxrLUVsVU9tYXVR0gF_QVVfeXFMTzU0NVNnMzFoQ1EySUp1NzIzMEZscXNZbDFTQmVvNFZta0YybUxwajVMbDdmdVFIbVVqSXR0bFFveUk5LWFzc1BsME9vaFMxX1lRZW5wUkRWUGZpQ25CaGE3LWtrVTFZUWhudzBtOHBNS25QcngxMlo4N2RmNThkWQ?oc=5",
+      "published": "2025-05-22T12:12:26",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Proposed $21M settlement reached with victims of Ottawa doctor Vincent Nadon - CBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jOEtFbUZDbFBLZEw0MF95NFZnd1gteVJlcjcyQjFFZ0tjRkI2eWp3VVhkZ0xYR0xJcl9PVXplY01vMGVqM0FzS0ZqUWxiMHlYZF9LTHZhTk1QcXRKVjBJd2ZHWDRvOEgtSzJnVEo1dklEVS1pWUZmaXdnVXk?oc=5",
+      "published": "2025-05-22T01:31:00",
+      "date": "2025-05-22"
+    },
     {
       "source": "Google News (Canada)",
       "title": "Carney says Canada in talks about Trump’s Golden Dome, releases mandate letter for all ministers - National Post",
@@ -27,6 +41,13 @@
     },
     {
       "source": "Google News (Canada)",
+      "title": "Ottawa woman charged with first-degree murder, arson in 2024 fire - Ottawa Citizen",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5dGt0Z1hRcGtlYXkycjZqemtoNE5yS29wVXFCWXRpQmp6YkdCSlVEWEFfZWxJNW5yLUQtaHl1WGt6Wm54V3ZVODhXdnBHTnROaXJtQWNTMmhjdzlVNGJ1NmFiWXlTUHFRblVPUE9SX1A2UQ?oc=5",
+      "published": "2025-05-21T21:12:58",
+      "date": "2025-05-21"
+    },
+    {
+      "source": "Google News (Canada)",
       "title": "Bank of Canada could cut three more times: Desjardins - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOTY0VUNHU2RWY2VTN1VmaFRmZUVOM0ZRV3Z6dzFiZmg2WVpEZ3hWUDZYOEJMRjlfSm9PWVQ0YkRlR29kMlZDVzk4cWZGNFg5b2x4d1EyZU04M0dYb1hRVVBjck1oMzVWd0VsOE5TOTY2MV93UUE3ZjJGcW53RmNGQ2RWMUZQQ2V4TXpv?oc=5",
       "published": "2025-05-21T19:56:44",
@@ -44,6 +65,34 @@
       "title": "Canada Post rejects union's offer to delay potential strike - CBC",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81enh3c3YwRjR1MlV3S0N4aDJ3NEQtUnRFckRVaEU5NkhiMllsNlRTcGZLUDRrT1FTZlA5LVYyUWl0TnVtTW5DVDNxNS1yLWtOQkZEOGpEaVdvVzBxWk9GbjJULVh1Um5PY3F5enRkUjl5Wms?oc=5",
       "published": "2025-05-21T19:15:42",
+      "date": "2025-05-21"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "What is the Canada Post strike all about? Here's what to know about the corporation and its union - National Post",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbGZSblo4akFrNndhSk8tZzRyTEdNNG1xbW1fR2FwQnJqT2FHS0ZuZFhuQ3B0aVctZzAzZHFYY2Vqa1ZyUGJ2SUxKc1Rva0ZJc2YwVXlJbGZpUTRQTUQ5MzhFVkRNa1lsTVRWSHNzVlhON1hERGp2TlpUN0U2SkpRbURFc2VnMGZMWF92YmJ1MmhScnZMcEJyMkJpY1ZMbk9QbEp3LWZUMWlYa2tDWjdUN0IxMXhUUC1mN3BjSFA2SmtxUFJITG1QbVI0bHE?oc=5",
+      "published": "2025-05-21T19:06:00",
+      "date": "2025-05-21"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Federal offender who had been at large since May 5 arrested in Ottawa - Ottawa Citizen",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0T1VqTUp5c3NfTm05Qm5BRGt6UzdPc3ZxRjZBNHpsTEQ3aVBEQnl2Q0p5SGFqRU5BUThCS3pVM2VHUm9UXzd0LW56aWxFMThsZUczbjFITEFKVnFJZkJTVU9jMk52bWJDal9aUg?oc=5",
+      "published": "2025-05-21T18:00:24",
+      "date": "2025-05-21"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "One Man Arrested and One Suspect Wanted in Canada Post Theft from Mail and Break and Enter Investigations, Images Released - Toronto Police Service",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tM3lXNHM1bTBNZmpXZFp4dUZZWEQ3VmJiendTbjJWRTZoZGVvY05oUUZtTTJyYzNBWmN2UTBnOEx6MkxoS0xCTU42S0NNX0ZTbEQ4TlZ2d09WODR3MHA0Mkp3?oc=5",
+      "published": "2025-05-21T17:54:28",
+      "date": "2025-05-21"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Canada's threat of sanctions on Israel came when 'enough was enough': ex-ambassador - CBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ2UxdnJ0dURJTzc4Uk5oU0ZWeUJvUWhPX3FDZUxQVy1PRHpXd09OLVJVNHJSVUo5UmFHd203bW51R2I2ekExT1dSR3NtcXhCTWVmVng2bk5fTk5kUDU3WV9LaWdkdmpqUDhjRm15YTU5YmRWOFRiTUdiMUlQLUstc09vc3k0UQ?oc=5",
+      "published": "2025-05-21T17:29:08",
       "date": "2025-05-21"
     },
     {
@@ -111,13 +160,6 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "City of Ottawa to revamp membership costs for recreation and swimming activities. Here’s what you need to know - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbXdPME1RdjEydWVuMU1lcEhSTEx0QVV2a3BrOWtMVWZhOHhqMVFsYllfb01xM1R5QlVQd293a3VFTFZzSWE2X3A2Rk9SNmFIV3J3Qy1rOGYyMUphbkg2QnJvZWxzNzVJdGFxU0VrSFhqdVdHLTlSTHJZZWVKUlpCcktwa1dnTk9lcl9mc2dNLWQ1blB2Q08xc1RobW0xY3hFaGotd3BHUllvUTZfMzZJblQ2eTFHMkhJYVc4V3FUTmdvMjhoQi1fTUFEbWRBc2F1MV9YbGhnQm9xRFAtdU9qYQ?oc=5",
-      "published": "2025-05-21T11:56:50",
-      "date": "2025-05-21"
-    },
-    {
-      "source": "Google News (Canada)",
       "title": "Everything you need to know about the royal visit to Ottawa - Ottawa Citizen",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lai1zMmUwcDVQQkZ4cmF6WlVFODNBWnBrX1FzQkxPQ2M1cVpBeTFFUXpfMHRkSVJOU2twdnNYWUJqZnVObFdwTlk4UkFuVkFOMnpMNmtQYm0zM3p3aGc?oc=5",
       "published": "2025-05-21T08:07:11",
@@ -149,6 +191,13 @@
       "title": "Nova Scotia takes Ottawa to court, saying feds must protect land link - National Post",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV1hpNUJ0eGJ4dmVHanFQbWZJVUpJQXAzQ0FEaGh0T3BwVzBHV2REWHplNC1ZbkNYWWo5QWZ3cWRfUVlicXNRS18wN085VmQ0cHh4dm5qc2ZBajNZRXcyWGZjd0xFeHVGMmF1VU5OX3ZTTG9fWjBYZEFtcXFVckdtMm0tMFdwWXJiRlpvLWRWekJQaWJVUEQ2TmZOcU51RmRnRnotNWtULUI?oc=5",
       "published": "2025-05-21T02:30:07",
+      "date": "2025-05-21"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Ottawa says child welfare talks stalled over AFN’s 'unreasonable' requests - National Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ0YzVWtmbmVkUlRxYTl4SWcwdWVXM096T1R6RjYwVDRXM1g0aEpVZHdTclNpTldpX0JhV0xvUnpnWTFKVkE3WVJnVHFqSllfeDQyVEhpOTgzdzRjSWNWWXNudjBPdmJhVGl2UjQyR2lwSlI1SWU1WUcwb2FhTFVjZ1VBY2tRZjU0Y2xfZWRaRWYwS0xXWFlwNHNYT0JjUlJzY2c4anM4ZExvS2Q4?oc=5",
+      "published": "2025-05-21T01:54:50",
       "date": "2025-05-21"
     },
     {
@@ -212,6 +261,13 @@
       "title": "4 places to see the King and Queen during their royal visit to Ottawa next week - CBC",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLWNEU0czcE81TnB2QWNrU1dZOWFNNGhDc191X29QeEdhRXlzZi1LaUZqeXM4WUh3VldUMEkwNVl3bC00Nm5XUjhHLVhOenJQd3JMd1haUE1sOTVieHBPMGkwV0VOaGlxVEdJYzlMYzlIa1pvVWZ1UlYxZ2d2d2plX3hpbGxKenotTGxtMU5ESS15SVdDalcwNnNTaGtSUXBub2FGT1NqS0hBY0NKbXpjSnFKWlpwcU84RkVURE5lOW9fRG9SQkE?oc=5",
       "published": "2025-05-20T20:06:00",
+      "date": "2025-05-20"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Israel 'taken aback' by Canada's threat of action over war, wants Carney to visit: ambassador - National Post",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZWJ2SlFRLXAtTEpVRkNuRzhxZGcwUGpPd05DbHh5REpXaFN1UlJ0RXFKMkRXQVZ2b3NEMjE3bVFWLWp5OXdrY2Z2TFE2ckhMZFFNYU5LU1NzSW9NZHRpLVVWVndWZ2FMdUV1allIaVJGTFVGTFNyczNOWTB1bzdmMHVlUnVoY081bGJVZmpGeUk0cGRkVEJLMzFJOA?oc=5",
+      "published": "2025-05-20T19:54:27",
       "date": "2025-05-20"
     },
     {
@@ -419,13 +475,6 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Police investigate body found in Ottawa River - CityNews Ottawa",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbTRWU21wc1lhdWZsVFNPZ0xCdmNNNWkzSXowb21JNXBLQXUtcDB2aGF4d21nTC1WbHpSeGVOUFMzUWVWTURwYU1lRWZQRTJBMEFTeE81am5lVklsQnlQeHJ6Z21TQWdadE5RSWw3eU1ZOHFUSVVrLXpRTWJtLWpSMGp6Y0VEZEJCTm5UedIBkgFBVV95cUxPQXY0V05LdVR4Vk1paVMzb3RrSE9wUi1YNXRCOGwzbHNGamdNeWVlRUlvTTg5N3Awd3lhaThnaWJHNlNNb19CNkhoOWdVbjhrb1gzX09lN2NpUGVURUdVX25XTTlFcS14V3VuZ3dNbHQ3MHVscUhuZGJra2NtelFzTGFfaU1wdkxfSVgtRTVrMVl0Zw?oc=5",
-      "published": "2025-05-19T13:52:30",
-      "date": "2025-05-19"
-    },
-    {
-      "source": "Google News (Canada)",
       "title": "Where Canada’s housing market could go next as summer nears - National - Global News",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rRXFOdkc5WTNiTlNsOERJZHN3azN1M2JBeTBaWmhrQXlHY2RVaEt6MnR0OXg2WW44eGU0UnNtU2w1eUM0aDdZYlkzZHV3MXkxMUpkNVlFWGZnRnZRN2lUenU2cUtXWjA0SkVsTmZwcXJtRkp1Vy1nODZn?oc=5",
       "published": "2025-05-19T10:00:46",
@@ -447,9 +496,9 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Canada’s finances deteriorated faster than any other G7 country - Fraser Institute",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWGZvV0dtU19yeldqU2MtVVZncElpMTlYSmJXVjE2b1ZJSFRoNG40VjdRTmpERUd1NW1kd0ZDbVYxQWlkUnkta0ZrZGRuWjdrMWM0Z2dFTXZJcXZtX09Kd2dHZzZrNGJiMWRIeWdDbWxiakpNMWxrb25OMk8ya3owbHlwTEs1TS05NWI5eGU4WVd1WGM2X2lMa0JkbllVb3pfLUE?oc=5",
-      "published": "2025-05-18T15:21:17",
+      "title": "Opinion: Alberta separation from Canada not as simple as some think - The Star Phoenix",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZFF0QkluN0xoUk10WGU5QUdHa1ZidGltalNuZnhpZ1RXb2U3WWsyTEsxTzZLN3h4VW92UVZLUTRZaF9OMldlUE1nbEtxaFFxREdfV1NlblBlR1U1UVpqWHZPcndpUDZncFJoMzBmbDE5UHZPRkVPTnRWcW1VY24zck9kclZ3WHlwT1ZCelZSRHZtMGp2eThock5wREdUZkZVUzJPMGh5dGIzaEdHYlFvQVhB?oc=5",
+      "published": "2025-05-18T13:06:19",
       "date": "2025-05-18"
     },
     {
@@ -482,9 +531,9 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Crosby, Celebrini lead Canada in dominant win over Slovakia at worlds - Sportsnet.ca",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMmxoM0duN09za29aM1BTSndmZFhkdUFZaHBpWnp3TEVkWEVmOHVIeUdLdnFjSHZndkpUMzAxYk1fOEY0QzdxZGpzOEJZalFGamRReVR2TUotRjNGQ0dSN2EyMHNsdmtNMGZNYjRjYjVyb1drdzBJbmN0b2NZZ2pxT3JlbXUzM1NqYVVjSzU4QXRsanUyYXdZa2Y3a3QtZXRod2J0ZWh2RUxYa0JydXdsYTh5aEk3NUc1VFhvcERjclZXaGljc0l3UlQ2c3M?oc=5",
-      "published": "2025-05-17T23:14:00",
+      "title": "Crosby, Celebrini lead Canada in dominant win over Slovakia at worlds - TSN",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYjVkRU9WSHpHNUlXTVBJMnd4aHE1UHJ6MzNJZVlGYUpuZzJpamRWUF9CWlh2Tl9KT1dGVEluYVN0NHc5d053RWUxSG5VdW1nTHd4aVh0YWVwRnJFYWYyLWdBY1hWUEpxN2VEN1pXVnoyTGZUSlhhcXk3alhlLWZUa3o2eTE1TU1wMHhuS2pvTkRKVHJiaHJiSmZNY1dubW9JMU4xR0VnSGhjMEJ4aTViOQ?oc=5",
+      "published": "2025-05-17T23:09:48",
       "date": "2025-05-17"
     },
     {
@@ -499,13 +548,6 @@
       "title": "Canada now has a minister of artificial intelligence. What will he do? - CBC",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYVRIdmhBd1g2LWhLOExBbkNGbi04SXF4X09fckNFSjBKZWh3Y2llRzFNQUwzMHl0NWkxc0UwNjNtUEJMYkNnM05pOUE1RkFHT0UwUTl0SmZFMUc1ZjRYUi1XcE10LVo0b0FQOXNzVWwxQXJNUE1keWktUlZ2eUtKdElCTXpBZw?oc=5",
       "published": "2025-05-17T08:00:00",
-      "date": "2025-05-17"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "Ottawa Charge advances to PWHL final after upset of Montreal Victoire at packed TD Place - Ottawa Citizen",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTm1sbFFFTHY5OGdyWm9KYmI0TUhjZmE3UWpWTUN0bjlaZjQ2NGVzLWtYd3FJSkFaU1BHQ1ZPczljUU44T0twbzRwZ0hldW1jcnhJSlJxcGlpMWZiLVBvM09ocU5ueExZYmR1V2Y4SWtQR2lKLU9EN0RIVTBwcEdQN3hwMUN1em91b3FSWkNn?oc=5",
-      "published": "2025-05-17T01:58:13",
       "date": "2025-05-17"
     },
     {
@@ -601,13 +643,6 @@
     },
     {
       "source": "Google News (Canada)",
-      "title": "Ontario budget commits to explore options to upload Ottawa’s O-Train to the province - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS0tabGFTVm5hTHBlUTlpRG9KMmFibVpZN1k3dnpKUWhxX2p4dXkwSi1GemhnN3dWRU9RNUE0elZvNllYR241TmxZYUY3WmNkRFhaaWZsTTdmRjQ0T3F4UU1mb2tKc3c2bElid3BxemNIeFNaQ1NrUmdTMUVnNzRVZ0poVlFVeUEteDJFdUUzSXpnbmpHNGU0aktDeE9KLXJvbUVPQUhUVUo0YWE2b3NTckJKWG5nZ0drMXI5b2ZqQQ?oc=5",
-      "published": "2025-05-15T21:35:28",
-      "date": "2025-05-15"
-    },
-    {
-      "source": "Google News (Canada)",
       "title": "Hey, Michelin Guide! Ottawa restaurants deserve attention, too, city's top chefs say - Ottawa Citizen",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KUzlnOFljanpQQ21jQ0d4VFhvU2J1MVQxXzNjN3hrRXZvdnBxMVl2aTF2R0FXbVJrcGpLYWRKVHgwUmtZMXpQTjBLY3RYZ3Q1WFFBMGE5dkVMNjRkbHZ0Z0JjLUpCSElHVGk4OThnVFJldw?oc=5",
       "published": "2025-05-15T20:55:17",
@@ -667,41 +702,6 @@
       "title": "Chinese ambassador says China open to formal trade deal with Canada - The Star Phoenix",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeC1kU1lrU0ctMmVXeENqUDdNbktya3JEaFRmNjhxb3RsbGR5MUpmSWVFRFVJUDJLUjctYW1HT0UtZ3JENlc0NDFKalN4UHNGRHBSVlVfNm03SE85RGdDTEw5c2Y2RFBDTzFPSElRbHpyQVYxRGxlRHpBUXBPT3hqMngxMkYxYmp3MTlpaUkzSWVTaUFRekNHY1A0R3lDMExseXV5R2J3?oc=5",
       "published": "2025-05-15T15:23:40",
-      "date": "2025-05-15"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "‘You have to be aware of your surroundings’: Ottawa police officer tips to keep pedestrians safe - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHZHZVhGRHY1Q0hvQTZKVDBrcktBRnhZc0JTX1MzbnppOE5aRnhmZ2lKNWVoWi1FWmRST0VoalRGeTRCU0xfdVNBaUEyeDBrdk5PTlFKZG0wM1pQQlhXU1lZRk5kT2E5emM3b0x5Q3Z0RmVQcmJYdFFSSmY3ZFFDNGhQbmdLX25QTlRjcFZwSkFtdjZBMEszcW50ZW12TUZ5R2p3anJYQnNmOXdYcEcyUUJWdEVxU004YXJ2U1ROaTBxc0hMT1hrNlhwWEs?oc=5",
-      "published": "2025-05-15T12:25:53",
-      "date": "2025-05-15"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "What's open and closed in Ottawa on Victoria Day - CBC",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSnItVkhJeHBlb2R6TndqcDNLQ3hLaGdkdmJBcHoyTFNuMERlMzI2c2hXWWtGeERNemV3dnRFQVo0REJidExsbU80aFJXZzhZTnhyNmxuTDY4YUpXbGpwbXRvUTdGQ01BcmlYZTY3Ri1EOTdOd1NWN3dMZUdtVk5IZ2lVc0Vob2JfbTF4cw?oc=5",
-      "published": "2025-05-15T12:20:51",
-      "date": "2025-05-15"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "Housing starts for April 2025 - Canada Mortgage and Housing Corporation | CMHC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNnpobC1DMklRdHJ6aXdjTWxpVXg3cFhGdjdWdDMzdTdjRXVpM2VXYl9TWndhc21oTUNvVnR0dlFUWVJQVE9uS3VmWVFrbnhLbUUySVVfbTVyczV3MVJtakhSSVZYOFZyVWFXWG04TEI2Vndyb2ItYWdnNXYxYlVUdEdUUjBDdzNLczZzTTJveWQ?oc=5",
-      "published": "2025-05-15T12:17:58",
-      "date": "2025-05-15"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "Canada must maximize existing pipelines before building more, Guilbeault says - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1VsTEV1X3NaeHN5MnE2QUF1QmQ5RFl6V0NzN2x5cEFPVEhyOEE1VkZzNk1HenFVSjB1b2hIUmFxRVRqeFNORUMyTm9HMjd1cWN5aFQ2STR4N2hMc052cDU2UEI4OXh3ZmpLdTBucV9LeHVIeUdaMEJMOFFBdV82R2dScUZJTlgwT1pULTk3RXhKN0RKZWxaNFlON0w?oc=5",
-      "published": "2025-05-15T11:59:45",
-      "date": "2025-05-15"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "Canada's new tariffs on U.S. drop to 'nearly zero' with exemptions: Oxford Economics - National Post",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTctdGQ2Mkw3NXljLUxwQUFpUXpMZlZJc3YyWnJCWlhuWGNoZkZ3YnVuUHNtVW9pSWsyMGl0Sm9NS2NxcmNQS2JlaHkxRHRoMngyWHVBLXNocG5qVHpwZzlxQ3kxU0hXLXR3Q2s0ME1sQTRDaDlOXzduZDNpX1o4Mkc4WXRNem9mbzF3X0pJWjFFVGlVaXl1eEstc0w4aXU0TkN3MXNkdFNrdjFxQ3lqZzRwZzRZQVE?oc=5",
-      "published": "2025-05-15T11:25:14",
       "date": "2025-05-15"
     }
   ]
