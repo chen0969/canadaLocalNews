@@ -1,14 +1,14 @@
 {
   "source": "Google News RSS",
   "query": "Ottawa OR Canada",
-  "updated_at": "2025-05-23T03:09:55.586845Z",
+  "updated_at": "2025-05-23T04:20:56.371803Z",
   "article_count": 100,
   "articles": [
     {
       "source": "Google News (Canada)",
-      "title": "B.C. business owners brace for second Canada Post strike - CBC",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS3FTQ3lEa21DblFLeUg5cngtUlBrTldEanYxZXc1aldCdjk3dkk0TEl0V2pUcGpPNHI4aE1hbjZmZ3M0TmF1WDhJTmFjdlc2WEpDejNPLUQyTXpJdXBWUDlkTHZKbjFmNFJxSzNBZ1lIZm1ZbTF2d21oOHROY2xyZmlWTS16aDZlWi1RY0hZZlpFdFZ1UW9OcFR0QTBITFlaS0RxX0t1MTBxN1AzUkE?oc=5",
-      "published": "2025-05-23T00:31:00",
+      "title": "Union says Canada Post offers 'fall short' as strike deadline nears - CBC",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oUVFJaTFQVDI2ZjZIbnZUSWdXak9WeXJBRGdFNVpPd0p4d1FNVHFHR0F0Vm9ySllDMGVzeU9VYzhEdDQ1aWtBWVFfUzg3ZWtIUm9rLTNseWxqTEJkM3lZRjJmRTRGcHROX0FWOFZB?oc=5",
+      "published": "2025-05-23T02:59:00",
       "date": "2025-05-23"
     },
     {
@@ -83,6 +83,13 @@
     },
     {
       "source": "Google News (Canada)",
+      "title": "Canadian travel to U.S. continues steep decline, data shows - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0JtTk9EcFcybTFabmNZbFBOVXg2UUltQ1NDekowMDNaNHJ1OTExc0tVS0VZb0htV3VUWXNwMVFLNjFDQXFiakRURmxSdnQyN2hyOFBiQVl1VlNxODNNakUySEFPbmNCZ1hjZlJrVWc4SlNVc09DWVBSaXVWZHJyQS1HbDhkVmg5WmRzbUZZZEo0eTdnaFlFOHgyU3lnUDJoX2hN?oc=5",
+      "published": "2025-05-22T14:06:38",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "Google News (Canada)",
       "title": "Final four residents of the 'smallest town in Canada' set to relocate - National Post",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1McmNIOTIxLS15SWwxM0VsRmdhMnRvUE9jNTh1eTdXVUVPakJNdm9EdU5QX2tPLXpweHFlVmlteUNSbU5iLWQ3RWdhNTkzQV9UWjFlczN5NkEzQkY3NE9QenVXZ0l2bWVHN3U3N3o2RDY5YjBuYWZN?oc=5",
       "published": "2025-05-22T13:00:21",
@@ -108,20 +115,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd3NYZ295eGRlQ0d1Z3RpYS1LQ1RlbkNKRnBnNDhNUEdkUFBTSE1NWTdzVHZtZnp4dkxZMl9JTmtBUGEwWl8zNjE3dXBITlFUSVBheXFvRlFBRzhPcTU5WWtGUGY1VGFtbkRlZzJMYXZDY2l5YWhjaXEybzI1RHlMZnNoOU5mMXN0eDZRT0ZoSEUzOGox?oc=5",
       "published": "2025-05-22T00:22:30",
       "date": "2025-05-22"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "U.S. Golden Dome among ‘options’ for Canada’s defence, Carney says - Global News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tYVZtRExzeUw4czIyMVNONjY4U2E1UkVKaXVfRmtoVVlpM29fbEg0WDRGdzVwUWJiWFdmUE5kSm04Y0NBa2R5Z09fNUs5ZnNZNW9sVFlHOHZNUG5qOGFJNk4zOTByNEhYeEpqMDluSkVmdjlhWVN1UU1kakRnd9IBgwFBVV95cUxNLWEzUS1vWXZmSWM2VWpCOUdtdFRVR2xuOWxZMjVXa0djSFI5cEpmM0NpVGFtM0xNSlBmVFVIUDNoS0xld3VJV2ZfOHFFYlRLYzAyVVpOY04yWVYzZDlYb0ROSGUwaWsxMnhKSlNrcGZtN3NZVk9kb2hZZm1wVlBPMzJsaw?oc=5",
-      "published": "2025-05-21T23:26:27",
-      "date": "2025-05-21"
-    },
-    {
-      "source": "Google News (Canada)",
-      "title": "Canada's pension giant quietly abandons net-zero climate goal - Business in Vancouver",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ0F6ajRWckRhVW9rVjUxc21wemxhSnlLWjUxWUtzMXpXaDRXX1ljR2FJd1FSNkNId3VZNVktYm9RUWJIbE5qWG1IVElMbnY5RHdvZnI0Ukd0cTFXclJrQzlqdXpndnFHeFhGcmhYOFliZG9nVEZ4Ql9LMDREMlBaVHZsNVlNMU1ZeEU3c0trbHhZN2hHak83clp3?oc=5",
-      "published": "2025-05-21T23:00:00",
-      "date": "2025-05-21"
     },
     {
       "source": "Google News (Canada)",
@@ -582,6 +575,13 @@
       "source": "Google News (Canada)",
       "title": "Why King Charles's upcoming visit to Canada is unprecedented in many ways - CBC",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaC1NSGtYT3dma200S2xyZFotWmtZUW9sRzM5SlktUTRrWUxETnNYT0lPTFBndmtaZTNNa0U0MWNWbnRNdGFVYlZBbjVqZWowMzVnMHRweUFwc2N3OHBUMEtGeGp1bjJ1SXo1UEwyQmlUVzFEY3hjYUFmdjRoYmRicG41cVV2M0w4YnVTbGlWbzY3UkJ2X3lRYm5UNTFPWWtoRFRrNXViOUNGZmY5eVpxU3c3TQ?oc=5",
+      "published": "2025-05-18T08:00:00",
+      "date": "2025-05-18"
+    },
+    {
+      "source": "Google News (Canada)",
+      "title": "Canada needs more homes. Prefabricated houses could fill the void - CBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qNDlrbHktd04xeThOTlJOOUVBby1rQS0xY1h5dDN3QmVGWEtQNld4X0I5R3BXOElWX0w4Yy1RYzRkU1hCaEZCZXk1ZTBBN3JhdlBCUzN0V3ZVRWY4MUFvZkJmbmphRTFRdHNkMzV5c19raTJ6SDNJZ2FoNA?oc=5",
       "published": "2025-05-18T08:00:00",
       "date": "2025-05-18"
     },
