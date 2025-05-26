@@ -3,26 +3,36 @@ import json
 from datetime import datetime, timedelta
 import time
 
-# 媒體來源（可擴充）
-canadian_sources = [
-    "CBC", "Global News", "CTV News", "National Post", "Ottawa Citizen",
-    "Ottawa Sun", "CityNews", "Hill Times", "BNN Bloomberg",
-    "Canadaland", "iPolitics", "The Globe and Mail"
-]
+# 媒體與網址對照
+source_site_map = {
+    "CBC": "cbc.ca",
+    "Global News": "globalnews.ca",
+    "CTV News": "ctvnews.ca",
+    "National Post": "nationalpost.com",
+    "Ottawa Citizen": "ottawacitizen.com",
+    "Ottawa Sun": "ottawasun.com",
+    "CityNews": "citynews.ca",
+    "Hill Times": "hilltimes.com",
+    "BNN Bloomberg": "bnnbloomberg.ca",
+    "Canadaland": "canadaland.com",
+    "iPolitics": "ipolitics.ca",
+    "The Globe and Mail": "theglobeandmail.com"
+}
 
-# 關鍵字（加拿大政治專用）
+# 關鍵字（政治主題）
 search_keywords = [
     "Canada politics", "Parliament", "Justin Trudeau", "Pierre Poilievre",
     "House of Commons", "Canadian government", "federal election"
 ]
 
-# 建構 RSS 查詢 URL
-def build_rss_url(source, keyword):
-    return f"https://news.google.com/rss/search?q={keyword.replace(' ', '+')}+source:{source.replace(' ', '+')}&hl=en-CA&gl=CA&ceid=CA:en"
+# 產生 Google News RSS URL（用 site: 限定網站）
+def build_rss_url(site, keyword):
+    keyword_encoded = keyword.replace(' ', '+')
+    return f"https://news.google.com/rss/search?q={keyword_encoded}+site:{site}&hl=en-CA&gl=CA&ceid=CA:en"
 
-# 抓取指定來源和關鍵字的新聞
-def fetch_articles(source, keyword):
-    feed = feedparser.parse(build_rss_url(source, keyword))
+# 擷取新聞（僅限近 24 小時）+ 過濾標題關聯
+def fetch_articles(source, site, keyword):
+    feed = feedparser.parse(build_rss_url(site, keyword))
     now = datetime.utcnow()
     cutoff = now - timedelta(days=1)
     articles = []
@@ -33,6 +43,12 @@ def fetch_articles(source, keyword):
     for entry in feed.entries:
         try:
             pub = datetime(*entry.published_parsed[:6])
+
+            # 加入關鍵字過濾（標題中必含該關鍵字）
+            clean_keyword = keyword.lower().replace('"', '')
+            if clean_keyword not in entry.title.lower():
+                continue
+
             if pub >= cutoff:
                 articles.append({
                     "source": source,
@@ -58,11 +74,11 @@ def deduplicate(articles):
 
 # 主程式
 all_articles = []
-for source in canadian_sources:
+for source, site in source_site_map.items():
     print(f"🔍 媒體：{source}")
     found_count = 0
     for keyword in search_keywords:
-        results = fetch_articles(source, keyword)
+        results = fetch_articles(source, site, keyword)
         if results:
             print(f"  ✅ {keyword} ➜ 找到 {len(results)} 筆")
             all_articles.extend(results)
@@ -70,6 +86,7 @@ for source in canadian_sources:
         else:
             print(f"  ❌ {keyword} ➜ {source} 沒資料")
         time.sleep(2)
+
     if found_count == 0:
         print(f"⚠️  {source} 沒抓到任何政治新聞")
 
@@ -79,7 +96,7 @@ final_articles.sort(key=lambda x: x["published"], reverse=True)
 
 # 儲存成 politics.json
 news_data = {
-    "source": "Google News RSS + Canadian Political Sources",
+    "source": "Google News RSS + site-filtered political sources",
     "query": "Canada politics",
     "updated_at": datetime.utcnow().isoformat() + "Z",
     "article_count": len(final_articles),
