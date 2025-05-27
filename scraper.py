@@ -44,11 +44,6 @@ def fetch_articles(source, site, keyword):
         try:
             pub = datetime(*entry.published_parsed[:6])
 
-            # 加入關鍵字過濾（標題中必含該關鍵字）
-            clean_keyword = keyword.lower().replace('"', '')
-            if clean_keyword not in entry.title.lower():
-                continue
-
             if pub >= cutoff:
                 articles.append({
                     "source": source,
@@ -60,6 +55,7 @@ def fetch_articles(source, site, keyword):
         except Exception:
             continue
     return articles
+
 
 # 去除重複（title + url）
 def deduplicate(articles):
